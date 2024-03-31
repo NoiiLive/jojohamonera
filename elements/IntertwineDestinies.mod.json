@@ -1,0 +1,24 @@
+{
+  "_fv": 57,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Music Disc",
+    "rarity": "RARE",
+    "texture": "sonochinosadame",
+    "description": "Intertwined Destinies - Hayato Matsuo",
+    "creativeTab": {
+      "value": "CUSTOM:PhantomBloodMusic"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:intertwineddestinies"
+    },
+    "lengthInTicks": 1600,
+    "analogOutput": 0
+  }
+}

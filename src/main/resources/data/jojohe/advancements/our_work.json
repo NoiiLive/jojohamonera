@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:broken_mask"
+    },
+    "title": {
+      "translate": "advancements.our_work.title"
+    },
+    "description": {
+      "translate": "advancements.our_work.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "our_work": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:intertwined_destinies"
+}

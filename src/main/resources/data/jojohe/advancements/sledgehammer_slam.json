@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:sledgehammer_item"
+    },
+    "title": {
+      "translate": "advancements.sledgehammer_slam.title"
+    },
+    "description": {
+      "translate": "advancements.sledgehammer_slam.descr"
+    },
+    "frame": "goal",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "sledgehammer_slam": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:bladed_hat"
+}

@@ -1,0 +1,137 @@
+{
+  "_fv": 57,
+  "_type": "livingentity",
+  "definition": {
+    "mobName": "Cat-Bird Chimera (No AI)",
+    "mobLabel": "",
+    "mobModelName": "ModelCatBirdChimera",
+    "mobModelTexture": "catbirdtexture.png",
+    "solidBoundingBox": {
+      "fixedValue": false
+    },
+    "modelLayers": [
+      {
+        "model": "Default",
+        "texture": "catbird_e.png",
+        "glow": true
+      }
+    ],
+    "modelWidth": 0.5,
+    "modelHeight": 1.0,
+    "modelShadowSize": 0.5,
+    "mountedYOffset": 0.0,
+    "hasSpawnEgg": true,
+    "spawnEggBaseColor": {
+      "value": -5197648,
+      "falpha": 0.0
+    },
+    "spawnEggDotColor": {
+      "value": -9605779,
+      "falpha": 0.0
+    },
+    "creativeTab": {
+      "value": "No creative tab entry"
+    },
+    "isBoss": false,
+    "bossBarColor": "PINK",
+    "bossBarType": "PROGRESS",
+    "equipmentMainHand": {
+      "value": ""
+    },
+    "equipmentOffHand": {
+      "value": ""
+    },
+    "equipmentHelmet": {
+      "value": ""
+    },
+    "equipmentBody": {
+      "value": ""
+    },
+    "equipmentLeggings": {
+      "value": ""
+    },
+    "equipmentBoots": {
+      "value": ""
+    },
+    "mobBehaviourType": "Mob",
+    "mobCreatureType": "UNDEAD",
+    "attackStrength": 5,
+    "attackKnockback": 0.0,
+    "knockbackResistance": 0.1,
+    "movementSpeed": 0.19999999999999998,
+    "stepHeight": 0.6,
+    "armorBaseValue": 2.0,
+    "trackingRange": 64,
+    "followRange": 16,
+    "health": 20,
+    "xpAmount": 0,
+    "waterMob": false,
+    "pushedByFluids": {
+      "fixedValue": true
+    },
+    "flyingMob": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "disableCollisions": false,
+    "ridable": false,
+    "canControlForward": false,
+    "canControlStrafe": false,
+    "immuneToFire": false,
+    "immuneToArrows": false,
+    "immuneToFallDamage": true,
+    "immuneToCactus": true,
+    "immuneToDrowning": true,
+    "immuneToLightning": false,
+    "immuneToPotions": true,
+    "immuneToPlayer": false,
+    "immuneToExplosion": false,
+    "immuneToTrident": false,
+    "immuneToAnvil": false,
+    "immuneToWither": true,
+    "immuneToDragonBreath": false,
+    "mobDrop": {
+      "value": "Blocks.AIR"
+    },
+    "livingSound": {
+      "value": ""
+    },
+    "hurtSound": {
+      "value": "entity.generic.hurt"
+    },
+    "deathSound": {
+      "value": "entity.generic.death"
+    },
+    "stepSound": {
+      "value": ""
+    },
+    "entityDataEntries": [],
+    "onRightClickedOn": {
+      "name": "VampireUnsitMinion"
+    },
+    "onMobTickUpdate": {
+      "name": "CatBirdChimeraConstant"
+    },
+    "hasAI": true,
+    "aiBase": "(none)",
+    "aixml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"aitasks_container\" deletable=\"false\" x=\"40\" y=\"40\"><next><block type=\"restrict_sun\"><field name=\"condition\">null,null</field><next><block type=\"look_around\"><field name=\"condition\">null,null</field><next><block type=\"swim_in_water\"><field name=\"condition\">null,null</field></block></next></block></next></block></next></block></xml>",
+    "breedable": true,
+    "tameable": true,
+    "breedTriggerItems": [],
+    "ranged": false,
+    "rangedAttackItem": {
+      "value": ""
+    },
+    "rangedItemType": "Default item",
+    "rangedAttackInterval": 20,
+    "rangedAttackRadius": 10.0,
+    "spawnThisMob": false,
+    "doesDespawnWhenIdle": false,
+    "spawningProbability": 1,
+    "mobSpawningType": "monster",
+    "minNumberOfMobsPerGroup": 1,
+    "maxNumberOfMobsPerGroup": 1,
+    "restrictionBiomes": [],
+    "spawnInDungeons": false
+  }
+}

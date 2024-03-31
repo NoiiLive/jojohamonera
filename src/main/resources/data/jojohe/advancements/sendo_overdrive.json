@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:sendo_overdrive_item"
+    },
+    "title": {
+      "translate": "advancements.sendo_overdrive.title"
+    },
+    "description": {
+      "translate": "advancements.sendo_overdrive.descr"
+    },
+    "frame": "goal",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "sendo_overdrive": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:overdrive_barrage"
+}

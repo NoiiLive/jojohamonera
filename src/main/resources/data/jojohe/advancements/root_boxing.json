@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:boxing_ach_item"
+    },
+    "title": {
+      "translate": "advancements.root_boxing.title"
+    },
+    "description": {
+      "translate": "advancements.root_boxing.descr"
+    },
+    "frame": "challenge",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "root_boxing": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:human_tree"
+}

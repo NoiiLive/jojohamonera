@@ -1,0 +1,24 @@
+{
+  "_fv": 57,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Music Disc",
+    "rarity": "RARE",
+    "texture": "sonochinosadame",
+    "description": "Sono Chi No Sadame - Hiroaki Tominaga",
+    "creativeTab": {
+      "value": "CUSTOM:PhantomBloodMusic"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": true
+    },
+    "music": {
+      "value": "CUSTOM:sonochinosadame"
+    },
+    "lengthInTicks": 5240,
+    "analogOutput": 0
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "_fv": 57,
+  "_type": "command",
+  "definition": {
+    "commandName": "jojohe",
+    "type": "STANDARD",
+    "permissionLevel": "No requirement",
+    "argsxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"args_start\" deletable=\"false\" x=\"40\" y=\"40\"><next><block type=\"literal\"><field name=\"name\">abilityswitch</field><statement name=\"args\"><block type=\"literal\"><field name=\"name\">wheel</field><statement name=\"args\"><block type=\"call_procedure\"><field name=\"procedure\">ChangeAbilityWheel</field></block></statement><next><block type=\"literal\"><field name=\"name\">cycle</field><statement name=\"args\"><block type=\"call_procedure\"><field name=\"procedure\">ChangeAbilitySwitcher</field></block></statement><next><block type=\"literal\"><field name=\"name\">keybind</field><statement name=\"args\"><block type=\"call_procedure\"><field name=\"procedure\">ChangeAbilityKeybind</field></block></statement></block></next></block></next></block></statement><next><block type=\"literal\"><field name=\"name\">fleshbud</field><statement name=\"args\"><block type=\"string\"><field name=\"type\">word</field><field name=\"name\">command</field><statement name=\"args\"><block type=\"entity\"><field name=\"name\">name</field><field name=\"type\">player</field><statement name=\"args\"><block type=\"call_procedure\"><field name=\"procedure\">FleshbudCommands</field></block></statement></block></statement></block></statement></block></next></block></next></block></xml>"
+  }
+}

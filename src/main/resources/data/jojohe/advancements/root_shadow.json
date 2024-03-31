@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:shadowborn_item"
+    },
+    "title": {
+      "translate": "advancements.root_shadow.title"
+    },
+    "description": {
+      "translate": "advancements.root_shadow.descr"
+    },
+    "frame": "challenge",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "root_shadow": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:vampire_tree"
+}

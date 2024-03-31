@@ -1,0 +1,26 @@
+{
+  "_fv": 57,
+  "_type": "structure",
+  "definition": {
+    "structure": "tibetantemple",
+    "projection": "rigid",
+    "ignoredBlocks": [
+      {
+        "value": "Blocks.STRUCTURE_BLOCK"
+      },
+      {
+        "value": "Blocks.AIR"
+      }
+    ],
+    "spacing": 80,
+    "separation": 50,
+    "restrictionBiomes": [
+      {
+        "value": "desert"
+      }
+    ],
+    "surfaceDetectionType": "WORLD_SURFACE_WG",
+    "terrainAdaptation": "beard_thin",
+    "generationStep": "SURFACE_STRUCTURES"
+  }
+}

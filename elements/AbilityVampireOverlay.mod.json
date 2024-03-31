@@ -1,0 +1,480 @@
+{
+  "_fv": 57,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_switch_display_he.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnVampire"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "blood_bar_0.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "BloodBarDisplay0"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 186
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "blood_bar_1.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "BloodBarDisplay1"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 186
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "blood_bar_2.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "BloodBarDisplay2"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 186
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "blood_bar_3.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "BloodBarDisplay3"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 186
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "blood_bar_4.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "BloodBarDisplay4"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 186
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "blood_bar_5.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "BloodBarDisplay5"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 186
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "blood_bar_6.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "BloodBarDisplay6"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 186
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "blood_bar_7.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "BloodBarDisplay7"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 186
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "blood_bar_8.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "BloodBarDisplay8"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 186
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "blood_bar_9.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "BloodBarDisplay9"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 186
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "blood_bar_10.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "BloodBarDisplay10"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 186
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_root_vampire.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnVampireRoot"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 402,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_root_bloodbathed.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnBloodbathed"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 402,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_root_necromancer.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnNecromancer"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 402,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_root_shadowborn.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnShadowborn"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 402,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_locked.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAbilityCooldown1"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 402,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_locked.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAbilityCooldown2"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 383,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_locked.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAbilityCooldown3"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 364,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_locked.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAbilityCooldown4"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 345,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_locked.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAbilityCooldown5"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_locked.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAbilityCooldown6"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 383,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_locked.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAbilityCooldown7"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 364,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_locked.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAbilityCooldown8"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 345,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_locked.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAbilityCooldown9"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_locked_selected.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAbilityCooldownSelected1"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 402,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_locked_selected.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAbilityCooldownSelected2"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 383,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_locked_selected.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAbilityCooldownSelected3"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 364,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_locked_selected.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAbilityCooldownSelected4"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 345,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_locked_selected.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAbilityCooldownSelected5"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_locked_selected.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAbilityCooldownSelected6"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 383,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_locked_selected.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAbilityCooldownSelected7"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 364,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_locked_selected.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAbilityCooldownSelected8"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 345,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_locked_selected.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAbilityCooldownSelected9"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 196
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_return_cooldown_length",
+          "text": {
+            "fixedValue": "",
+            "name": "ReturnCooldownLength"
+          },
+          "color": {
+            "value": -39322,
+            "falpha": 0.0
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 403,
+          "y": 172
+        }
+      }
+    ],
+    "baseTexture": "",
+    "overlayTarget": "Ingame",
+    "displayCondition": {
+      "name": "ReturnVampire"
+    },
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

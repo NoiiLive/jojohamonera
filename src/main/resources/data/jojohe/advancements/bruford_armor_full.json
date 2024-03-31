@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:bruford_armor_chestplate"
+    },
+    "title": {
+      "translate": "advancements.bruford_armor_full.title"
+    },
+    "description": {
+      "translate": "advancements.bruford_armor_full.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "bruford_armor_full": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:speed_armor_full"
+}

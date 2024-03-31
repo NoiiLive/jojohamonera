@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:thunder_split_item"
+    },
+    "title": {
+      "translate": "advancements.thunder_split_attack.title"
+    },
+    "description": {
+      "translate": "advancements.thunder_split_attack.descr"
+    },
+    "frame": "goal",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "thunder_split_attack": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:afterimages"
+}

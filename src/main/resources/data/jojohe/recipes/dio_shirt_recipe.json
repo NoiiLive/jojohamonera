@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "aba",
+    "cdc"
+  ],
+  "key": {
+    "a": {
+      "item": "jojohe:red_cloth"
+    },
+    "b": {
+      "item": "jojohe:purple_cloth"
+    },
+    "c": {
+      "item": "jojohe:white_cloth"
+    },
+    "d": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "jojohe:dio_armor_chestplate",
+    "count": 1
+  }
+}

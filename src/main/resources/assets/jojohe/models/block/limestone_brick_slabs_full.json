@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "jojohe:block/limestonebricks",
+    "top": "jojohe:block/limestonebricks",
+    "side": "jojohe:block/limestonebricks"
+  },
+  "render_type": "solid"
+}

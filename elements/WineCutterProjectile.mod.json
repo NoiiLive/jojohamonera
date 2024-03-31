@@ -1,0 +1,19 @@
+{
+  "_fv": 57,
+  "_type": "projectile",
+  "definition": {
+    "projectileItem": {
+      "value": "CUSTOM:RedWine"
+    },
+    "showParticles": false,
+    "actionSound": {
+      "value": "entity.player.attack.sweep"
+    },
+    "igniteFire": false,
+    "power": 1.0,
+    "damage": 5.0,
+    "knockback": 5,
+    "entityModel": "ModelWineCutter",
+    "customModelTexture": "winecutter.png"
+  }
+}

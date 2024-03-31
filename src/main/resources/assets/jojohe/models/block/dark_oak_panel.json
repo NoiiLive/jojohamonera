@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jojohe:block/dark_oak_panel",
+    "up": "jojohe:block/dark_oak_panel",
+    "north": "jojohe:block/dark_oak_panel",
+    "east": "jojohe:block/dark_oak_panel",
+    "south": "jojohe:block/dark_oak_panel",
+    "west": "jojohe:block/dark_oak_panel",
+    "particle": "jojohe:block/dark_oak_panel"
+  },
+  "render_type": "solid"
+}

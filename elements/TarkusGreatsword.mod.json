@@ -1,0 +1,36 @@
+{
+  "_fv": 57,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Sword",
+    "renderType": 1,
+    "blockingRenderType": 0,
+    "texture": "tarkus_greatsword",
+    "customModelName": "tarkusgreatsword:default",
+    "blockingModelName": "Normal blocking",
+    "name": "Tarkus's Greatsword",
+    "specialInformation": {
+      "fixedValue": [
+        "§7§oDeals extra damage to §e§oHamon §7§oUsers."
+      ]
+    },
+    "creativeTab": {
+      "value": "CUSTOM:PhantomBlood"
+    },
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 0.7,
+    "enchantability": 2,
+    "damageVsEntity": 10.0,
+    "usageCount": 1500,
+    "blocksAffected": [],
+    "repairItems": [
+      {
+        "value": "Items.NETHERITE_INGOT"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "_fv": 57,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Music Disc",
+    "rarity": "RARE",
+    "texture": "silent_horizon",
+    "description": "Silent Horizon - Hayato Matsuo",
+    "creativeTab": {
+      "value": "CUSTOM:PhantomBloodMusic"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:silenthorizon"
+    },
+    "lengthInTicks": 2200,
+    "analogOutput": 0
+  }
+}

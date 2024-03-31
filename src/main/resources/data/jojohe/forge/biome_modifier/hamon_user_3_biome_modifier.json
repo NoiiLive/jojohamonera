@@ -1,0 +1,15 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "badlands",
+    "plains",
+    "desert",
+    "sunflower_plains"
+  ],
+  "spawners": {
+    "type": "jojohe:hamon_user_3",
+    "weight": 5,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

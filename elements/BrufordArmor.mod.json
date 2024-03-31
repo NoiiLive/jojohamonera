@@ -1,0 +1,74 @@
+{
+  "_fv": 57,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "bruford_diadem",
+    "enableBody": true,
+    "textureBody": "bruford_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "bruford_loincloth",
+    "enableBoots": true,
+    "textureBoots": "bruford_boots",
+    "creativeTab": {
+      "value": "CUSTOM:PhantomBloodArmor"
+    },
+    "armorTextureFile": "invis_",
+    "helmetName": "Bruford's Diadem",
+    "bodyName": "Bruford's Chestplate",
+    "leggingsName": "Bruford's Loincloth",
+    "bootsName": "Bruford's Boots",
+    "helmetSpecialInformation": {
+      "fixedValue": []
+    },
+    "bodySpecialInformation": {
+      "fixedValue": []
+    },
+    "leggingsSpecialInformation": {
+      "fixedValue": []
+    },
+    "bootsSpecialInformation": {
+      "fixedValue": []
+    },
+    "helmetModelName": "ModelBrufordCrown",
+    "helmetModelPart": "crown",
+    "helmetModelTexture": "brufordcrown.png",
+    "bodyModelName": "ModelBrufordBody",
+    "bodyModelPart": "body",
+    "armsModelPartL": "LeftArm",
+    "armsModelPartR": "RightArm",
+    "bodyModelTexture": "brufordbody.png",
+    "leggingsModelName": "ModelBrufordLegs",
+    "leggingsModelPartL": "LeftLeg",
+    "leggingsModelPartR": "RightLeg",
+    "leggingsModelTexture": "brufordlegstexture.png",
+    "bootsModelName": "ModelBrufordBoots",
+    "bootsModelPartL": "LeftBoot",
+    "bootsModelPartR": "RightBoot",
+    "bootsModelTexture": "brufordbootstexture.png",
+    "helmetItemRenderType": 0,
+    "helmetItemCustomModelName": "Normal",
+    "bodyItemRenderType": 0,
+    "bodyItemCustomModelName": "Normal",
+    "leggingsItemRenderType": 0,
+    "leggingsItemCustomModelName": "Normal",
+    "bootsItemRenderType": 0,
+    "bootsItemCustomModelName": "Normal",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 25,
+    "damageValueHelmet": 2,
+    "damageValueBody": 4,
+    "damageValueLeggings": 2,
+    "damageValueBoots": 3,
+    "enchantability": 9,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

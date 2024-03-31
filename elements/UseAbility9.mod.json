@@ -1,0 +1,12 @@
+{
+  "_fv": 57,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "NUMPAD9",
+    "keyBindingName": "Use Ability 9",
+    "keyBindingCategoryKey": "jojohekeybinds",
+    "onKeyPressed": {
+      "name": "KeybindAbility9"
+    }
+  }
+}

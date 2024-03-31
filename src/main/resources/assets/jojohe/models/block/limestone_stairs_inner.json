@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "jojohe:block/limestone",
+    "top": "jojohe:block/limestone",
+    "side": "jojohe:block/limestone"
+  },
+  "render_type": "solid"
+}

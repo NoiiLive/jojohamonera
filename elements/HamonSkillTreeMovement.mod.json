@@ -1,0 +1,424 @@
+{
+  "_fv": 57,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 0,
+    "height": 0,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_icon.png",
+          "use1Xscale": false,
+          "x": 184,
+          "y": 52
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_icon.png",
+          "use1Xscale": false,
+          "x": 145,
+          "y": 91
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_icon.png",
+          "use1Xscale": false,
+          "x": 184,
+          "y": 130
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_icon.png",
+          "use1Xscale": false,
+          "x": 224,
+          "y": 91
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_icon.png",
+          "use1Xscale": false,
+          "x": 90,
+          "y": 91
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_icon.png",
+          "use1Xscale": false,
+          "x": 279,
+          "y": 91
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_lock.png",
+          "use1Xscale": false,
+          "x": 108,
+          "y": 107
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_lock.png",
+          "use1Xscale": false,
+          "x": 297,
+          "y": 107
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_wip_not_implemented",
+          "text": {
+            "fixedValue": "WIP - Not Implemented"
+          },
+          "width": 24,
+          "height": 24,
+          "x": 296,
+          "y": 108
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_wip_not_implemented1",
+          "text": {
+            "fixedValue": "WIP - Not Implemented"
+          },
+          "width": 24,
+          "height": 24,
+          "x": 107,
+          "y": 108
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_movement.png",
+          "use1Xscale": false,
+          "x": 181,
+          "y": 13
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_guiarrow_left",
+          "image": "guiarrow_left.png",
+          "hoveredImage": "guiarrow_left_h.png",
+          "onClick": {
+            "name": "OpenSkillTreeSupport"
+          },
+          "x": 168,
+          "y": 13
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_gui_arrow",
+          "image": "gui_arrow.png",
+          "hoveredImage": "gui_arrow_h.png",
+          "onClick": {
+            "name": "OpenSkillTreePhysical"
+          },
+          "x": 247,
+          "y": 13
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_support",
+          "text": {
+            "fixedValue": "Support"
+          },
+          "width": 13,
+          "height": 19,
+          "x": 168,
+          "y": 13
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_physical",
+          "text": {
+            "fixedValue": "Physical"
+          },
+          "width": 13,
+          "height": 19,
+          "x": 247,
+          "y": 13
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_stat_guibutton",
+          "image": "stat_guibutton.png",
+          "hoveredImage": "stat_guibutton_h.png",
+          "onClick": {
+            "name": "OpenStatPageKeybind"
+          },
+          "x": 202,
+          "y": 109
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "hamon_afterimages.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAfterimagesUnlocked"
+          },
+          "x": 197,
+          "y": 65
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "hamon_hamon_dash.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnHamonDashUnlocked"
+          },
+          "x": 197,
+          "y": 143
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_rebindtab",
+          "image": "skilltree_rebindtab.png",
+          "hoveredImage": "skilltree_rebindtab_h.png",
+          "displayCondition": {
+            "name": "ReturnAfterimagesUnlocked"
+          },
+          "x": 204,
+          "y": 96
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_rebindtab1",
+          "image": "skilltree_rebindtab.png",
+          "hoveredImage": "skilltree_rebindtab_h.png",
+          "displayCondition": {
+            "name": "ReturnHamonDashUnlocked"
+          },
+          "x": 204,
+          "y": 174
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_rebindtab2",
+          "image": "skilltree_rebindtab.png",
+          "hoveredImage": "skilltree_rebindtab_h.png",
+          "displayCondition": {
+            "name": "ReturnStickingHamonUnlocked"
+          },
+          "x": 165,
+          "y": 135
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_rebindtab3",
+          "image": "skilltree_rebindtab.png",
+          "hoveredImage": "skilltree_rebindtab_h.png",
+          "displayCondition": {
+            "name": "ReturnLifeMagnetismUnlocked"
+          },
+          "x": 244,
+          "y": 135
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_rebindtab4",
+          "image": "skilltree_rebindtab.png",
+          "hoveredImage": "skilltree_rebindtab_h.png",
+          "displayCondition": {
+            "name": "ReturnHamonBeatUnlocked"
+          },
+          "x": 299,
+          "y": 135
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_rebindtab5",
+          "image": "skilltree_rebindtab.png",
+          "hoveredImage": "skilltree_rebindtab_h.png",
+          "displayCondition": {
+            "name": "ReturnSnakeMufflerUnlocked"
+          },
+          "x": 110,
+          "y": 135
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_lock",
+          "image": "skilltree_lock.png",
+          "hoveredImage": "skilltree_lock_h.png",
+          "onClick": {
+            "name": "UnlockAfterimages"
+          },
+          "displayCondition": {
+            "name": "ReturnAfterimagesLocked"
+          },
+          "x": 202,
+          "y": 68
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_lock1",
+          "image": "skilltree_lock.png",
+          "hoveredImage": "skilltree_lock_h.png",
+          "onClick": {
+            "name": "UnlockHamonDash"
+          },
+          "displayCondition": {
+            "name": "ReturnHamonDashLocked"
+          },
+          "x": 202,
+          "y": 146
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_lock2",
+          "image": "skilltree_lock.png",
+          "hoveredImage": "skilltree_lock_h.png",
+          "onClick": {
+            "name": "UnlockLifeMagnetism"
+          },
+          "displayCondition": {
+            "name": "ReturnLifeMagnetismLocked"
+          },
+          "x": 242,
+          "y": 107
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_lock3",
+          "image": "skilltree_lock.png",
+          "hoveredImage": "skilltree_lock_h.png",
+          "onClick": {
+            "name": "UnlockStickingHamon"
+          },
+          "displayCondition": {
+            "name": "ReturnStickingHamonLocked"
+          },
+          "x": 163,
+          "y": 107
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_life_magnetism_overdrive_0_wil",
+          "text": {
+            "fixedValue": "Life Magnetism Overdrive : 0 Willpower, 0 Skill Points"
+          },
+          "displayCondition": {
+            "name": "ReturnLifeMagnetismLocked"
+          },
+          "width": 24,
+          "height": 24,
+          "x": 241,
+          "y": 108
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_hamon_dash_0_willpower_0_skil",
+          "text": {
+            "fixedValue": "Hamon Dash : 0 Willpower, 0 Skill Points"
+          },
+          "displayCondition": {
+            "name": "ReturnHamonDashLocked"
+          },
+          "width": 24,
+          "height": 24,
+          "x": 201,
+          "y": 147
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_afterimages_0_willpower_0_ski",
+          "text": {
+            "fixedValue": "Afterimages : 0 Willpower, 0 Skill Points"
+          },
+          "displayCondition": {
+            "name": "ReturnAfterimagesLocked"
+          },
+          "width": 24,
+          "height": 24,
+          "x": 201,
+          "y": 69
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_sticking_hamon_0_willpower_0",
+          "text": {
+            "fixedValue": "Sticking Hamon : 0 Willpower, 0 Skill Points"
+          },
+          "displayCondition": {
+            "name": "ReturnStickingHamonLocked"
+          },
+          "width": 24,
+          "height": 24,
+          "x": 162,
+          "y": 108
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

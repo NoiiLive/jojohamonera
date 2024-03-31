@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:human_spirit_item"
+    },
+    "title": {
+      "translate": "advancements.human_spirit.title"
+    },
+    "description": {
+      "translate": "advancements.human_spirit.descr"
+    },
+    "frame": "goal",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "human_spirit": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:barrage"
+}

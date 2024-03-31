@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:invisibility_item"
+    },
+    "title": {
+      "translate": "advancements.invisibility.title"
+    },
+    "description": {
+      "translate": "advancements.invisibility.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "invisibility": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:root_shadow"
+}

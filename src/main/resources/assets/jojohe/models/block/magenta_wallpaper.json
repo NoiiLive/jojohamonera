@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jojohe:block/magenta_wallpaper",
+    "up": "jojohe:block/magenta_wallpaper",
+    "north": "jojohe:block/magenta_wallpaper",
+    "east": "jojohe:block/magenta_wallpaper",
+    "south": "jojohe:block/magenta_wallpaper",
+    "west": "jojohe:block/magenta_wallpaper",
+    "particle": "jojohe:block/magenta_wallpaper"
+  },
+  "render_type": "solid"
+}

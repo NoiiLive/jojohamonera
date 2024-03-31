@@ -1,0 +1,90 @@
+{
+  "_fv": 57,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": false,
+    "textureHelmet": "",
+    "enableBody": true,
+    "textureBody": "jonashirt",
+    "enableLeggings": true,
+    "textureLeggings": "jonapants",
+    "enableBoots": true,
+    "textureBoots": "jonaboots",
+    "creativeTab": {
+      "value": "CUSTOM:PhantomBloodArmor"
+    },
+    "armorTextureFile": "invis_",
+    "helmetName": "Jonathan Armor Helmet",
+    "bodyName": "Jonathan's Shirt",
+    "leggingsName": "Jonathan's Pants",
+    "bootsName": "Jonathan's Boots",
+    "helmetSpecialInformation": {
+      "fixedValue": []
+    },
+    "bodySpecialInformation": {
+      "fixedValue": []
+    },
+    "leggingsSpecialInformation": {
+      "fixedValue": []
+    },
+    "bootsSpecialInformation": {
+      "fixedValue": []
+    },
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "ModelJonathanJoestarShirt",
+    "bodyModelPart": "torso",
+    "armsModelPartL": "left_arm",
+    "armsModelPartR": "right_arm",
+    "bodyModelTexture": "jonathanjoestartexture.png",
+    "leggingsModelName": "ModelJonathanJoestarPants",
+    "leggingsModelPartL": "left_leg",
+    "leggingsModelPartR": "right_leg",
+    "leggingsModelTexture": "jonathanjoestartexture.png",
+    "bootsModelName": "ModelJonathanJoestarBoots",
+    "bootsModelPartL": "left_boot",
+    "bootsModelPartR": "right_boot",
+    "bootsModelTexture": "jonathanjoestartexture.png",
+    "helmetItemRenderType": 0,
+    "helmetItemCustomModelName": "Normal",
+    "bodyItemRenderType": 0,
+    "bodyItemCustomModelName": "Normal",
+    "leggingsItemRenderType": 0,
+    "leggingsItemCustomModelName": "Normal",
+    "bootsItemRenderType": 0,
+    "bootsItemCustomModelName": "Normal",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "helmetPiglinNeutral": {
+      "fixedValue": false
+    },
+    "bodyPiglinNeutral": {
+      "fixedValue": false
+    },
+    "leggingsPiglinNeutral": {
+      "fixedValue": false
+    },
+    "bootsPiglinNeutral": {
+      "fixedValue": false
+    },
+    "maxDamage": 33,
+    "damageValueHelmet": 3,
+    "damageValueBody": 8,
+    "damageValueLeggings": 6,
+    "damageValueBoots": 3,
+    "enchantability": 9,
+    "toughness": 2.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "Items.LEATHER"
+      }
+    ]
+  }
+}

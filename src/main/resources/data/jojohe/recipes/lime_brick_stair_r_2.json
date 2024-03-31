@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "jojohe:limestone_bricks"
+  },
+  "result": "jojohe:limestone_brick_stairs"
+}

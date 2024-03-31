@@ -1,0 +1,268 @@
+{
+  "_fv": 57,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_switch_display_he.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "DontReturn"
+          },
+          "anchorPoint": "CENTER",
+          "x": 326,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_zoompunch.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnZoomPunch1"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 402,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_zoompunch.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnZoomPunch2"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 383,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_zoompunch.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnZoomPunch3"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 364,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_zoompunch.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnZoomPunch4"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 345,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_zoompunch.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnZoomPunch5"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_zoompunch.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnZoomPunch6"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 383,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_zoompunch.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnZoomPunch7"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 364,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_zoompunch.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnZoomPunch8"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 345,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_zoompunch.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnZoomPunch9"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_zoompunch_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnZoomPunchSelected1"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 402,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_zoompunch_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnZoomPunchSelected2"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 383,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_zoompunch_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnZoomPunchSelected3"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 364,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_zoompunch_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnZoomPunchSelected4"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 345,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_zoompunch_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnZoomPunchSelected5"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_zoompunch_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnZoomPunchSelected6"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 383,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_zoompunch_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnZoomPunchSelected7"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 364,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_zoompunch_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnZoomPunchSelected8"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 345,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_zoompunch_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnZoomPunchSelected9"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 196
+        }
+      }
+    ],
+    "baseTexture": "",
+    "overlayTarget": "Ingame",
+    "displayCondition": {
+      "name": "ReturnHamonUser"
+    },
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

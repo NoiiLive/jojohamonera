@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bba",
+    " aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:leather"
+    },
+    "b": {
+      "item": "minecraft:light_blue_dye"
+    }
+  },
+  "result": {
+    "item": "jojohe:blue_boxing_glove",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_fv": 57,
+  "_type": "projectile",
+  "definition": {
+    "projectileItem": {
+      "value": "CUSTOM:SpeedwagonArmor.helmet"
+    },
+    "showParticles": false,
+    "actionSound": {
+      "value": "CUSTOM:bladespin"
+    },
+    "igniteFire": false,
+    "power": 1.0,
+    "damage": 5.0,
+    "knockback": 5,
+    "entityModel": "ModelSpeedwagonHatBlade",
+    "customModelTexture": "speedwagonhatblade1.png",
+    "onHitsBlock": {
+      "name": "SpeedBladeHatDrop"
+    },
+    "onHitsEntity": {
+      "name": "SpeedBladeHatDrop"
+    }
+  }
+}

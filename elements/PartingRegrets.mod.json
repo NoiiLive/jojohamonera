@@ -1,0 +1,24 @@
+{
+  "_fv": 57,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Music Disc",
+    "rarity": "RARE",
+    "texture": "parting_regrets",
+    "description": "Parting Regrets - Hayato Matsuo",
+    "creativeTab": {
+      "value": "CUSTOM:PhantomBloodMusic"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:partingregrets"
+    },
+    "lengthInTicks": 2440,
+    "analogOutput": 0
+  }
+}

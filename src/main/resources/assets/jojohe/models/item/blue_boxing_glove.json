@@ -1,0 +1,7 @@
+{
+  "parent": "jojohe:custom/blueboxingglove",
+  "textures": {
+    "1": "jojohe:block/blueglovetexture",
+    "particle": "jojohe:item/blueboxingglove"
+  }
+}

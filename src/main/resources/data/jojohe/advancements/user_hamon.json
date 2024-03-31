@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:hamon_user_item"
+    },
+    "title": {
+      "translate": "advancements.user_hamon.title"
+    },
+    "description": {
+      "translate": "advancements.user_hamon.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "user_hamon": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:intertwined_destinies"
+}

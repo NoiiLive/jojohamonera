@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:evolved_vamp_item"
+    },
+    "title": {
+      "translate": "advancements.vamp_evolve.title"
+    },
+    "description": {
+      "translate": "advancements.vamp_evolve.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "vamp_evolve": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:weak_vamp"
+}

@@ -1,0 +1,87 @@
+{
+  "_fv": 57,
+  "_type": "config",
+  "definition": {
+    "pools": [
+      {
+        "category": "Player Configuration",
+        "entries": [
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 25.0,
+            "textDefault": "",
+            "comment": "Changes how much EXP is added per level-up, high values may make leveling difficult (Default: 25)",
+            "vardisplay": "EXP Multiplier",
+            "varname": "expmultiplier",
+            "enablecomment": true,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 5.0,
+            "textDefault": "",
+            "comment": "Changes how many Skill Points are given per level-up (Default: 5)",
+            "vardisplay": "Skill Points Per Level",
+            "varname": "levelskillpoints",
+            "enablecomment": true,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 0,
+            "block": {
+              "value": ""
+            },
+            "logicField": 1,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "Allows the losing of Abilities on death (Default: false)",
+            "vardisplay": "Lose Ability on Death",
+            "varname": "loseabilitydeath",
+            "enablecomment": true,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 0,
+            "block": {
+              "value": ""
+            },
+            "logicField": 1,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "Allows players to choose their abilities on spawn (Default: false)",
+            "vardisplay": "Player Ability Selection",
+            "varname": "playerabilityselection",
+            "enablecomment": true,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          }
+        ]
+      }
+    ],
+    "file": "jojohe_main",
+    "configType": 0
+  }
+}

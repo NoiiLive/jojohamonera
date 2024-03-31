@@ -1,0 +1,74 @@
+{
+  "_fv": 57,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": false,
+    "textureHelmet": "",
+    "enableBody": true,
+    "textureBody": "youngjonathancoat",
+    "enableLeggings": true,
+    "textureLeggings": "youngjonathanpants",
+    "enableBoots": true,
+    "textureBoots": "youngjonathanshoes",
+    "creativeTab": {
+      "value": "CUSTOM:PhantomBloodArmor"
+    },
+    "armorTextureFile": "invis_",
+    "helmetName": "Young Dio Armor Helmet",
+    "bodyName": "Young Jonathan's Coat",
+    "leggingsName": "Young Jonathan's Pants",
+    "bootsName": "Young Jonathan's Shoes",
+    "helmetSpecialInformation": {
+      "fixedValue": []
+    },
+    "bodySpecialInformation": {
+      "fixedValue": []
+    },
+    "leggingsSpecialInformation": {
+      "fixedValue": []
+    },
+    "bootsSpecialInformation": {
+      "fixedValue": []
+    },
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "ModelYoungJonathanCoat",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "LeftArm",
+    "armsModelPartR": "RightArm",
+    "bodyModelTexture": "youngjonathanclothes.png",
+    "leggingsModelName": "ModelYoungJonathanPants",
+    "leggingsModelPartL": "LeftLeg",
+    "leggingsModelPartR": "RightLeg",
+    "leggingsModelTexture": "youngjonathanclothes.png",
+    "bootsModelName": "ModelYoungJonathanShoes",
+    "bootsModelPartL": "LeftShoe",
+    "bootsModelPartR": "RightShoe",
+    "bootsModelTexture": "youngjonathanclothes.png",
+    "helmetItemRenderType": 0,
+    "helmetItemCustomModelName": "Normal",
+    "bodyItemRenderType": 0,
+    "bodyItemCustomModelName": "Normal",
+    "leggingsItemRenderType": 0,
+    "leggingsItemCustomModelName": "Normal",
+    "bootsItemRenderType": 0,
+    "bootsItemCustomModelName": "Normal",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 25,
+    "damageValueHelmet": 2,
+    "damageValueBody": 2,
+    "damageValueLeggings": 2,
+    "damageValueBoots": 2,
+    "enchantability": 9,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

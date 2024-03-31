@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "jojohe:limestone_bricks"
+    }
+  },
+  "result": {
+    "item": "jojohe:limestone_brick_slabs",
+    "count": 6
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "c c",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "jojohe:red_cloth"
+    },
+    "b": {
+      "item": "jojohe:white_cloth"
+    },
+    "c": {
+      "item": "jojohe:purple_cloth"
+    }
+  },
+  "result": {
+    "item": "jojohe:dio_armor_leggings",
+    "count": 1
+  }
+}

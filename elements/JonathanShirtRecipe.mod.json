@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.LEATHER"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.LEATHER"
+      },
+      {
+        "value": "CUSTOM:BlueCloth"
+      },
+      {
+        "value": "CUSTOM:BlueCloth"
+      },
+      {
+        "value": "CUSTOM:BlueCloth"
+      },
+      {
+        "value": "Items.LEATHER"
+      },
+      {
+        "value": "CUSTOM:BlueCloth"
+      },
+      {
+        "value": "Items.LEATHER"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:JonathanArmor.body"
+    },
+    "name": "jonathan_shirt_recipe",
+    "namespace": "mod"
+  }
+}

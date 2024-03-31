@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_orientable_trapdoor_top",
+  "textures": {
+    "texture": "jojohe:block/fancy_white_trap",
+    "particle": "jojohe:block/fancy_white_trap"
+  },
+  "render_type": "solid"
+}

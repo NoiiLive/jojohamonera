@@ -1,0 +1,97 @@
+{
+  "_fv": 57,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 200,
+    "height": 110,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_you_look_ready_to_fight_vampires",
+          "text": {
+            "fixedValue": "Hello good fellow, do you want to"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 129,
+          "y": 86
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_bring_me_a_stone_mask",
+          "text": {
+            "fixedValue": "Destroy a Stone Mask,"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 159,
+          "y": 106
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_and_i_will_teach_you_hamon",
+          "text": {
+            "fixedValue": "Or learn my fighting style?"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 144,
+          "y": 126
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_mask",
+          "text": "Mask",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "MaskDMenu"
+          },
+          "width": 46,
+          "height": 20,
+          "x": 119,
+          "y": 146
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_mask1",
+          "text": "Fight",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "SpeedFightOpen"
+          },
+          "width": 46,
+          "height": 20,
+          "x": 259,
+          "y": 146
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 10,
+      "sy": 10,
+      "ox": 6,
+      "oy": 1,
+      "snapOnGrid": true
+    }
+  }
+}

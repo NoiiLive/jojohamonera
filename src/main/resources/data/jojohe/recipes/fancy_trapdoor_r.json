@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:white_concrete"
+    }
+  },
+  "result": {
+    "item": "jojohe:fancy_white_trapdoor",
+    "count": 2
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "_fv": 57,
+  "_type": "tab",
+  "definition": {
+    "name": "Phantom Blood Spawn Eggs",
+    "icon": {
+      "value": "CUSTOM:JonathanJoestar.spawn_egg"
+    },
+    "showSearch": false
+  }
+}

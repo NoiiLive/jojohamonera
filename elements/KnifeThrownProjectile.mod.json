@@ -1,0 +1,25 @@
+{
+  "_fv": 57,
+  "_type": "projectile",
+  "definition": {
+    "projectileItem": {
+      "value": "CUSTOM:IronKnife"
+    },
+    "showParticles": false,
+    "actionSound": {
+      "value": "entity.player.attack.sweep"
+    },
+    "igniteFire": false,
+    "power": 1.0,
+    "damage": 5.0,
+    "knockback": 5,
+    "entityModel": "ModelIronKnife",
+    "customModelTexture": "knifethrow.png",
+    "onHitsBlock": {
+      "name": "KnifeHit"
+    },
+    "onHitsEntity": {
+      "name": "KnifeHit"
+    }
+  }
+}

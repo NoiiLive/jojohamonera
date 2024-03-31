@@ -1,0 +1,7 @@
+{
+  "_fv": 57,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"event_trigger\" deletable=\"false\" x=\"40\" y=\"40\"><field name=\"trigger\">player_respawn</field><next><block type=\"controls_if\"><value name=\"IF0\"><block type=\"logic_binary_ops\"><field name=\"OP\">EQ</field><value name=\"A\"><block type=\"logic_variable\"><field name=\"variable\">loseabilitydeath</field><field name=\"config\">CUSTOM:JoJoHEMain</field></block></value><value name=\"B\"><block type=\"logic_boolean\"><field name=\"BOOL\">TRUE</field></block></value></block></value><statement name=\"DO0\"><block type=\"call_procedure\"><field name=\"procedure\">SelectNone</field></block></statement></block></next></block></xml>"
+  }
+}

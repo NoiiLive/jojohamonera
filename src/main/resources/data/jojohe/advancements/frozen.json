@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:frozen_item"
+    },
+    "title": {
+      "translate": "advancements.frozen.title"
+    },
+    "description": {
+      "translate": "advancements.frozen.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "frozen": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:my_minions"
+}

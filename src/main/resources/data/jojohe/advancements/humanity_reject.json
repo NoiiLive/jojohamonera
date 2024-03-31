@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:bloody_stone_mask_helmet"
+    },
+    "title": {
+      "translate": "advancements.humanity_reject.title"
+    },
+    "description": {
+      "translate": "advancements.humanity_reject.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "humanity_reject": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:intertwined_destinies"
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 57,
+  "_type": "enchantment",
+  "definition": {
+    "name": "Metal Silver Overdrive",
+    "type": "WEAPON",
+    "rarity": "RARE",
+    "minLevel": 1,
+    "maxLevel": 5,
+    "damageModifier": 0,
+    "compatibleEnchantments": [
+      {
+        "value": "UNBREAKING"
+      },
+      {
+        "value": "SWEEPING"
+      },
+      {
+        "value": "LOOTING"
+      },
+      {
+        "value": "MENDING"
+      },
+      {
+        "value": "FIRE_ASPECT"
+      },
+      {
+        "value": "KNOCKBACK"
+      },
+      {
+        "value": "VANISHING_CURSE"
+      },
+      {
+        "value": "BINDING_CURSE"
+      }
+    ],
+    "excludeEnchantments": false,
+    "compatibleItems": [],
+    "excludeItems": false,
+    "isTreasureEnchantment": false,
+    "isCurse": false,
+    "isAllowedOnBooks": true,
+    "canGenerateInLootTables": false,
+    "canVillagerTrade": false
+  }
+}

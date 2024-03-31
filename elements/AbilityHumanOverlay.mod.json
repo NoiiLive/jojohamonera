@@ -1,0 +1,311 @@
+{
+  "_fv": 57,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_switch_display_he.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnHuman"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_root_human.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnHumanRoot"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 402,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_root_streetfighter.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnStreetFighter"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 402,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_locked.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAbilityCooldown1"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 402,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_locked.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAbilityCooldown2"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 383,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_locked.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAbilityCooldown3"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 364,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_locked.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAbilityCooldown4"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 345,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_locked.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAbilityCooldown5"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_locked.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAbilityCooldown6"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 383,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_locked.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAbilityCooldown7"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 364,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_locked.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAbilityCooldown8"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 345,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_locked.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAbilityCooldown9"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_locked_selected.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAbilityCooldownSelected1"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 402,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_locked_selected.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAbilityCooldownSelected2"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 383,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_locked_selected.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAbilityCooldownSelected3"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 364,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_locked_selected.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAbilityCooldownSelected4"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 345,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_locked_selected.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAbilityCooldownSelected5"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_locked_selected.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAbilityCooldownSelected6"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 383,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_locked_selected.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAbilityCooldownSelected7"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 364,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_locked_selected.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAbilityCooldownSelected8"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 345,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_locked_selected.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAbilityCooldownSelected9"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 196
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_return_cooldown_length",
+          "text": {
+            "fixedValue": "",
+            "name": "ReturnCooldownLength"
+          },
+          "color": {
+            "value": -39322,
+            "falpha": 0.0
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 403,
+          "y": 182
+        }
+      }
+    ],
+    "baseTexture": "",
+    "overlayTarget": "Ingame",
+    "displayCondition": {
+      "name": "ReturnHuman"
+    },
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

@@ -1,0 +1,454 @@
+{
+  "_fv": 57,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 0,
+    "height": 0,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_icon.png",
+          "use1Xscale": false,
+          "x": 184,
+          "y": 91
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_icon.png",
+          "use1Xscale": false,
+          "x": 106,
+          "y": 91
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_icon.png",
+          "use1Xscale": false,
+          "x": 145,
+          "y": 52
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_icon.png",
+          "use1Xscale": false,
+          "x": 224,
+          "y": 130
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_icon.png",
+          "use1Xscale": false,
+          "x": 224,
+          "y": 52
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_icon.png",
+          "use1Xscale": false,
+          "x": 145,
+          "y": 130
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_icon.png",
+          "use1Xscale": false,
+          "x": 263,
+          "y": 91
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_lock.png",
+          "use1Xscale": false,
+          "x": 124,
+          "y": 107
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_lock.png",
+          "use1Xscale": false,
+          "x": 281,
+          "y": 107
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_wip_not_implemented",
+          "text": {
+            "fixedValue": "WIP - Not Implemented"
+          },
+          "width": 24,
+          "height": 24,
+          "x": 123,
+          "y": 108
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_wip_not_implemented1",
+          "text": {
+            "fixedValue": "WIP - Not Implemented"
+          },
+          "width": 24,
+          "height": 24,
+          "x": 280,
+          "y": 108
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_support.png",
+          "use1Xscale": false,
+          "x": 181,
+          "y": 13
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_guiarrow_left",
+          "image": "guiarrow_left.png",
+          "hoveredImage": "guiarrow_left_h.png",
+          "onClick": {
+            "name": "OpenSkillTreeSpecial"
+          },
+          "x": 171,
+          "y": 13
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_gui_arrow",
+          "image": "gui_arrow.png",
+          "hoveredImage": "gui_arrow_h.png",
+          "onClick": {
+            "name": "OpenSkillTreeMovement"
+          },
+          "x": 244,
+          "y": 13
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_special",
+          "text": {
+            "fixedValue": "Special"
+          },
+          "width": 13,
+          "height": 19,
+          "x": 171,
+          "y": 13
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_movement",
+          "text": {
+            "fixedValue": "Movement"
+          },
+          "width": 13,
+          "height": 19,
+          "x": 244,
+          "y": 13
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_stat_guibutton",
+          "image": "stat_guibutton.png",
+          "hoveredImage": "stat_guibutton_h.png",
+          "onClick": {
+            "name": "OpenStatPageKeybind"
+          },
+          "x": 202,
+          "y": 148
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_rebindtab",
+          "image": "skilltree_rebindtab.png",
+          "hoveredImage": "skilltree_rebindtab_h.png",
+          "displayCondition": {
+            "name": "ReturnDeepPassUnlocked"
+          },
+          "x": 204,
+          "y": 135
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_rebindtab1",
+          "image": "skilltree_rebindtab.png",
+          "hoveredImage": "skilltree_rebindtab_h.png",
+          "displayCondition": {
+            "name": "ReturnHamonDetectorUnlocked"
+          },
+          "x": 244,
+          "y": 96
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_rebindtab2",
+          "image": "skilltree_rebindtab.png",
+          "hoveredImage": "skilltree_rebindtab_h.png",
+          "displayCondition": {
+            "name": "ReturnHamonHealingUnlocked"
+          },
+          "x": 165,
+          "y": 96
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_rebindtab3",
+          "image": "skilltree_rebindtab.png",
+          "hoveredImage": "skilltree_rebindtab_h.png",
+          "displayCondition": {
+            "name": "ReturnPrecognitionUnlocked"
+          },
+          "x": 165,
+          "y": 174
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_rebindtab4",
+          "image": "skilltree_rebindtab.png",
+          "hoveredImage": "skilltree_rebindtab_h.png",
+          "displayCondition": {
+            "name": "ReturnRepellingHamonUnlocked"
+          },
+          "x": 244,
+          "y": 174
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_rebindtab5",
+          "image": "skilltree_rebindtab.png",
+          "hoveredImage": "skilltree_rebindtab_h.png",
+          "displayCondition": {
+            "name": "ReturnHamonHypnosisUnlocked"
+          },
+          "x": 126,
+          "y": 135
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_rebindtab6",
+          "image": "skilltree_rebindtab.png",
+          "hoveredImage": "skilltree_rebindtab_h.png",
+          "displayCondition": {
+            "name": "ReturnPresenceErasingUnlocked"
+          },
+          "x": 283,
+          "y": 135
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_lock",
+          "image": "skilltree_lock.png",
+          "hoveredImage": "skilltree_lock_h.png",
+          "onClick": {
+            "name": "UnlockDeepPass"
+          },
+          "displayCondition": {
+            "name": "ReturnDeepPassLocked"
+          },
+          "x": 202,
+          "y": 107
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_lock1",
+          "image": "skilltree_lock.png",
+          "hoveredImage": "skilltree_lock_h.png",
+          "onClick": {
+            "name": "UnlockHamonDetector"
+          },
+          "displayCondition": {
+            "name": "ReturnHamonDetectorLocked"
+          },
+          "x": 242,
+          "y": 68
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_lock2",
+          "image": "skilltree_lock.png",
+          "hoveredImage": "skilltree_lock_h.png",
+          "onClick": {
+            "name": "UnlockHamonHealing"
+          },
+          "displayCondition": {
+            "name": "ReturnHamonHealingLocked"
+          },
+          "x": 163,
+          "y": 68
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_lock3",
+          "image": "skilltree_lock.png",
+          "hoveredImage": "skilltree_lock_h.png",
+          "onClick": {
+            "name": "UnlockRepellingHamon"
+          },
+          "displayCondition": {
+            "name": "ReturnRepellingHamonLocked"
+          },
+          "x": 242,
+          "y": 146
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_lock4",
+          "image": "skilltree_lock.png",
+          "hoveredImage": "skilltree_lock_h.png",
+          "onClick": {
+            "name": "UnlockPrecognition"
+          },
+          "displayCondition": {
+            "name": "ReturnPrecognitionLocked"
+          },
+          "x": 163,
+          "y": 146
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_deep_pass_overdrive_0_willpowe",
+          "text": {
+            "fixedValue": "Deep Pass Overdrive : 0 Willpower, 0 Skill Points"
+          },
+          "displayCondition": {
+            "name": "ReturnDeepPassLocked"
+          },
+          "width": 24,
+          "height": 24,
+          "x": 201,
+          "y": 108
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_hamon_detector_0_willpower_0",
+          "text": {
+            "fixedValue": "Hamon Detector : 0 Willpower, 0 Skill Points"
+          },
+          "displayCondition": {
+            "name": "ReturnHamonDetectorLocked"
+          },
+          "width": 24,
+          "height": 24,
+          "x": 241,
+          "y": 69
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_hamon_healing_0_willpower_0_s",
+          "text": {
+            "fixedValue": "Hamon Healing : 0 Willpower, 0 Skill Points"
+          },
+          "displayCondition": {
+            "name": "ReturnHamonHealingLocked"
+          },
+          "width": 24,
+          "height": 24,
+          "x": 162,
+          "y": 69
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_repelling_hamon_0_willpower_0",
+          "text": {
+            "fixedValue": "Repelling Hamon : 0 Willpower, 0 Skill Points"
+          },
+          "displayCondition": {
+            "name": "ReturnRepellingHamonLocked"
+          },
+          "width": 24,
+          "height": 24,
+          "x": 241,
+          "y": 147
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_precognition_0_willpower_0_sk",
+          "text": {
+            "fixedValue": "Precognition : 0 Willpower, 0 Skill Points"
+          },
+          "displayCondition": {
+            "name": "ReturnPrecognitionLocked"
+          },
+          "width": 24,
+          "height": 24,
+          "x": 162,
+          "y": 147
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

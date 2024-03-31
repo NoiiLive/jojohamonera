@@ -1,0 +1,11 @@
+{
+  "_fv": 57,
+  "_type": "tab",
+  "definition": {
+    "name": "Phantom Blood Items",
+    "icon": {
+      "value": "CUSTOM:StoneMask.helmet"
+    },
+    "showSearch": false
+  }
+}

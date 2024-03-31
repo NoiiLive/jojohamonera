@@ -1,0 +1,24 @@
+{
+  "_fv": 57,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Music Disc",
+    "rarity": "RARE",
+    "texture": "roundabout",
+    "description": "Roundabout - Yes",
+    "creativeTab": {
+      "value": "CUSTOM:PhantomBloodMusic"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": true
+    },
+    "music": {
+      "value": "CUSTOM:roundabout"
+    },
+    "lengthInTicks": 10240,
+    "analogOutput": 0
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "jojohe:custom/speedhammer",
+  "textures": {
+    "0": "jojohe:block/hammertexture",
+    "particle": "jojohe:item/speedhammer"
+  }
+}

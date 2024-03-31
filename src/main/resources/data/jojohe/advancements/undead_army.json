@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:undead_army_item"
+    },
+    "title": {
+      "translate": "advancements.undead_army.title"
+    },
+    "description": {
+      "translate": "advancements.undead_army.descr"
+    },
+    "frame": "goal",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "undead_army": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:vampire_steed"
+}

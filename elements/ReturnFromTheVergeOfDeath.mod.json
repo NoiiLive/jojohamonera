@@ -1,0 +1,21 @@
+{
+  "_fv": 57,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Music Disc",
+    "rarity": "RARE",
+    "texture": "verge_of_death",
+    "description": "Return From The Verge Of Death - Hayato Matsuo",
+    "creativeTab": {
+      "value": "CUSTOM:PhantomBloodMusic"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "music": {
+      "value": "CUSTOM:returnfromthevergeofdeath"
+    },
+    "lengthInTicks": 1200,
+    "analogOutput": 0
+  }
+}

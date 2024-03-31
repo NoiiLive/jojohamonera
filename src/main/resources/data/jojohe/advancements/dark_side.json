@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:bloody_iron_knife"
+    },
+    "title": {
+      "translate": "advancements.dark_side.title"
+    },
+    "description": {
+      "translate": "advancements.dark_side.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "dark_side": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:user_hamon"
+}

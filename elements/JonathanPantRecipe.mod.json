@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:OrangeCloth"
+      },
+      {
+        "value": "Items.GOLD_NUGGET"
+      },
+      {
+        "value": "CUSTOM:OrangeCloth"
+      },
+      {
+        "value": "CUSTOM:GrayCloth"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GrayCloth"
+      },
+      {
+        "value": "CUSTOM:GrayCloth"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GrayCloth"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:JonathanArmor.legs"
+    },
+    "name": "jonathan_pant_recipe",
+    "namespace": "mod"
+  }
+}

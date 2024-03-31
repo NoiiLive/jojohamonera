@@ -1,0 +1,35 @@
+{
+  "_fv": 57,
+  "_type": "structure",
+  "definition": {
+    "structure": "flower_field",
+    "projection": "rigid",
+    "ignoredBlocks": [
+      {
+        "value": "Blocks.STRUCTURE_BLOCK"
+      },
+      {
+        "value": "Blocks.AIR"
+      }
+    ],
+    "spacing": 70,
+    "separation": 50,
+    "restrictionBiomes": [
+      {
+        "value": "mutated_forest"
+      },
+      {
+        "value": "mutated_plains"
+      },
+      {
+        "value": "meadow"
+      },
+      {
+        "value": "grove"
+      }
+    ],
+    "surfaceDetectionType": "WORLD_SURFACE_WG",
+    "terrainAdaptation": "beard_thin",
+    "generationStep": "SURFACE_STRUCTURES"
+  }
+}

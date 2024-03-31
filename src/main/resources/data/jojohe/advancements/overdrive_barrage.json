@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:overdrive_barrage_item"
+    },
+    "title": {
+      "translate": "advancements.overdrive_barrage.title"
+    },
+    "description": {
+      "translate": "advancements.overdrive_barrage.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "overdrive_barrage": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:wine_cutter_advance"
+}

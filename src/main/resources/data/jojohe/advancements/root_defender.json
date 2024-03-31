@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:defender_item"
+    },
+    "title": {
+      "translate": "advancements.root_defender.title"
+    },
+    "description": {
+      "translate": "advancements.root_defender.descr"
+    },
+    "frame": "challenge",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "root_defender": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:hamon_user"
+}

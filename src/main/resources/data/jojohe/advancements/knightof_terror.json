@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:tarkus_greatsword"
+    },
+    "title": {
+      "translate": "advancements.knightof_terror.title"
+    },
+    "description": {
+      "translate": "advancements.knightof_terror.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "knightof_terror": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "jojohe:tarkus_greatsword"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "jojohe:luck_pluck"
+}

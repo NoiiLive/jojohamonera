@@ -1,0 +1,7 @@
+{
+  "parent": "jojohe:custom/dumbell",
+  "textures": {
+    "0": "jojohe:block/dumbelltexture",
+    "particle": "jojohe:item/exercise_strength"
+  }
+}

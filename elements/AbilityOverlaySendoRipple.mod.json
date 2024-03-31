@@ -1,0 +1,268 @@
+{
+  "_fv": 57,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_switch_display_he.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "DontReturn"
+          },
+          "anchorPoint": "CENTER",
+          "x": 326,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_sendo.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnSendoRipple1"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 402,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_sendo.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnSendoRipple2"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 383,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_sendo.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnSendoRipple3"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 364,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_sendo.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnSendoRipple4"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 345,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_sendo.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnSendoRipple5"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_sendo.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnSendoRipple6"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 383,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_sendo.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnSendoRipple7"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 364,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_sendo.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnSendoRipple8"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 345,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_sendo.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnSendoRipple9"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_sendo_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnSendoRippleSelected1"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 402,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_sendo_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnSendoRippleSelected2"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 383,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_sendo_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnSendoRippleSelected3"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 364,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_sendo_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnSendoRippleSelected4"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 345,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_sendo_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnSendoRippleSelected5"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_sendo_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnSendoRippleSelected6"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 383,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_sendo_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnSendoRipple7"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 364,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_sendo_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnSendoRipple8"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 345,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_sendo_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnSendoRippleSelected9"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 196
+        }
+      }
+    ],
+    "baseTexture": "",
+    "overlayTarget": "Ingame",
+    "displayCondition": {
+      "name": "ReturnHamonUser"
+    },
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "_fv": 57,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 230,
+    "height": 180,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "name": "button_change",
+          "text": "Change",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "VampireChangeTo"
+          },
+          "width": 56,
+          "height": 20,
+          "x": 102,
+          "y": 36
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_x",
+          "text": "X",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "MenuClose"
+          },
+          "width": 30,
+          "height": 20,
+          "x": 292,
+          "y": 186
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_xnable",
+          "text": "Disable",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "VampireDisableChange1"
+          },
+          "width": 56,
+          "height": 20,
+          "x": 162,
+          "y": 61
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_xnable1",
+          "text": "Disable",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "VampireDisableChange2"
+          },
+          "width": 56,
+          "height": 20,
+          "x": 162,
+          "y": 86
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_xnable2",
+          "text": "Disable",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "VampireDisableChange3"
+          },
+          "width": 56,
+          "height": 20,
+          "x": 162,
+          "y": 111
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_enable",
+          "text": "Enable",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "VampireEnableChange1"
+          },
+          "width": 56,
+          "height": 20,
+          "x": 102,
+          "y": 61
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_enable1",
+          "text": "Enable",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "VampireEnableChange2"
+          },
+          "width": 56,
+          "height": 20,
+          "x": 102,
+          "y": 86
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_enable2",
+          "text": "Enable",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "VampireEnableChange3"
+          },
+          "width": 56,
+          "height": 20,
+          "x": 102,
+          "y": 111
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_root_warrior",
+          "text": {
+            "fixedValue": "Root: Vampire"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 162,
+          "y": 41
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_zoom_punch",
+          "text": {
+            "fixedValue": "Zombie Minion"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 222,
+          "y": 66
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_scarlet_overdrive",
+          "text": {
+            "fixedValue": "Freeze"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 222,
+          "y": 91
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_sunlight_overdrive",
+          "text": {
+            "fixedValue": "Space Ripper"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 222,
+          "y": 116
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_root_warrior1",
+          "text": {
+            "fixedValue": "Root: Vampire"
+          },
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "x": 107,
+          "y": 161
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_strength_ii_regeneration_i",
+          "text": {
+            "fixedValue": "Speed I, Strength II,"
+          },
+          "color": {
+            "value": -16751104,
+            "falpha": 0.0
+          },
+          "x": 107,
+          "y": 176
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_resistance_i",
+          "text": {
+            "fixedValue": "Regeneration II"
+          },
+          "color": {
+            "value": -16751104,
+            "falpha": 0.0
+          },
+          "x": 107,
+          "y": 191
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 10,
+      "sy": 10,
+      "ox": 2,
+      "oy": 1,
+      "snapOnGrid": true
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "jojohe:custom/umbrellalightgray",
+  "textures": {
+    "0": "jojohe:block/umbrella_light_gray",
+    "particle": "jojohe:item/umbrella"
+  }
+}

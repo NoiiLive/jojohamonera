@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:red_wine"
+    },
+    "title": {
+      "translate": "advancements.wine_cutter_advance.title"
+    },
+    "description": {
+      "translate": "advancements.wine_cutter_advance.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "wine_cutter_advance": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:root_hermit"
+}

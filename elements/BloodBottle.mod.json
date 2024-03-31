@@ -1,0 +1,58 @@
+{
+  "_fv": 57,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "blood_bottle",
+    "customModelName": "Normal",
+    "customProperties": {},
+    "states": [],
+    "name": "Vial of Blood",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "CUSTOM:PhantomBlood"
+    },
+    "stackSize": 8,
+    "enchantability": 0,
+    "useDuration": 25,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": "Items.GLASS_BOTTLE"
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInformation": {
+      "fixedValue": [
+        "§7§oReturns back 5 §c§oBlood §7§oPoints."
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onFinishUsingItem": {
+      "name": "BloodBottleDrink"
+    },
+    "enableRanged": false,
+    "shootConstantly": false,
+    "projectile": {
+      "value": "CUSTOM:SpaceRipperProjectile"
+    },
+    "isFood": true,
+    "nutritionalValue": 2,
+    "saturation": 0.3,
+    "eatResultItem": {
+      "value": "Items.GLASS_BOTTLE"
+    },
+    "isMeat": true,
+    "isAlwaysEdible": true,
+    "animation": "drink"
+  }
+}

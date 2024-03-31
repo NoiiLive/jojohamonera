@@ -1,0 +1,7 @@
+{
+  "parent": "jojohe:custom/pluck",
+  "textures": {
+    "0": "jojohe:block/plucktexture",
+    "particle": "jojohe:item/pluck"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_fv": 57,
+  "_type": "enchantment",
+  "definition": {
+    "name": "Vampiric Syringe",
+    "type": "WEAPON",
+    "rarity": "VERY_RARE",
+    "minLevel": 1,
+    "maxLevel": 1,
+    "damageModifier": 0,
+    "compatibleEnchantments": [
+      {
+        "value": "UNBREAKING"
+      },
+      {
+        "value": "SWEEPING"
+      },
+      {
+        "value": "KNOCKBACK"
+      },
+      {
+        "value": "SHARPNESS"
+      },
+      {
+        "value": "SMITE"
+      },
+      {
+        "value": "BANE_OF_ARTHROPODS"
+      },
+      {
+        "value": "MENDING"
+      },
+      {
+        "value": "BINDING_CURSE"
+      },
+      {
+        "value": "VANISHING_CURSE"
+      }
+    ],
+    "excludeEnchantments": false,
+    "compatibleItems": [],
+    "excludeItems": false,
+    "isTreasureEnchantment": false,
+    "isCurse": false,
+    "isAllowedOnBooks": true,
+    "canGenerateInLootTables": false,
+    "canVillagerTrade": false
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "b b",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:leather"
+    },
+    "b": {
+      "item": "jojohe:purple_cloth"
+    }
+  },
+  "result": {
+    "item": "jojohe:dio_armor_boots",
+    "count": 1
+  }
+}

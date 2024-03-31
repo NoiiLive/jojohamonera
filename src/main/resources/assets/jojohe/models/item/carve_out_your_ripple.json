@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "jojohe:item/carve_out_your_ripple"
+  }
+}

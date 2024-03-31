@@ -1,0 +1,24 @@
+{
+  "_fv": 57,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Music Disc",
+    "rarity": "RARE",
+    "texture": "carve_out_your_ripple",
+    "description": "Carve Out Your Ripple - Hayato Matsuo",
+    "creativeTab": {
+      "value": "CUSTOM:PhantomBloodMusic"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": true
+    },
+    "music": {
+      "value": "CUSTOM:carveoutyourripple"
+    },
+    "lengthInTicks": 1500,
+    "analogOutput": 0
+  }
+}

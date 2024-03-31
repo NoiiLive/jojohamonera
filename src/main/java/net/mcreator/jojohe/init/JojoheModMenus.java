@@ -1,0 +1,116 @@
+
+/*
+ *	MCreator note: This file will be REGENERATED on each build.
+ */
+package net.mcreator.jojohe.init;
+
+import net.minecraftforge.registries.RegistryObject;
+import net.minecraftforge.registries.ForgeRegistries;
+import net.minecraftforge.registries.DeferredRegister;
+import net.minecraftforge.common.extensions.IForgeMenuType;
+
+import net.minecraft.world.inventory.MenuType;
+
+import net.mcreator.jojohe.world.inventory.WisdomLearnMenu;
+import net.mcreator.jojohe.world.inventory.WisdomChangeMenu;
+import net.mcreator.jojohe.world.inventory.WarriorLearnMenu;
+import net.mcreator.jojohe.world.inventory.WarriorChangeMenu;
+import net.mcreator.jojohe.world.inventory.VampireSkillTreeSupportMenu;
+import net.mcreator.jojohe.world.inventory.VampireSkillTreeSpecialMenu;
+import net.mcreator.jojohe.world.inventory.VampireSkillTreeRangedMenu;
+import net.mcreator.jojohe.world.inventory.VampireSkillTreePhysicalMenu;
+import net.mcreator.jojohe.world.inventory.VampireSkillTreeMovementMenu;
+import net.mcreator.jojohe.world.inventory.VampireChangeMenu;
+import net.mcreator.jojohe.world.inventory.TopHatFetchMenu;
+import net.mcreator.jojohe.world.inventory.StreetFighterChangeMenu;
+import net.mcreator.jojohe.world.inventory.StreetFightLearnMenu;
+import net.mcreator.jojohe.world.inventory.SpeedwagonChoiceMenu;
+import net.mcreator.jojohe.world.inventory.SpawnGUIVampMenu;
+import net.mcreator.jojohe.world.inventory.SpawnGUIMenu;
+import net.mcreator.jojohe.world.inventory.SpawnGUIHamonMenu;
+import net.mcreator.jojohe.world.inventory.ShadowVampireQuestMenu;
+import net.mcreator.jojohe.world.inventory.ShadowVampireLearnMenu;
+import net.mcreator.jojohe.world.inventory.ShadowChangeMenu;
+import net.mcreator.jojohe.world.inventory.RoseFetchMenu;
+import net.mcreator.jojohe.world.inventory.PlayerStatMenuMenu;
+import net.mcreator.jojohe.world.inventory.NecroVampireQuestMenu;
+import net.mcreator.jojohe.world.inventory.NecroVampireLearnMenu;
+import net.mcreator.jojohe.world.inventory.NecroChangeMenu;
+import net.mcreator.jojohe.world.inventory.MaskFetchTonpettyMenu;
+import net.mcreator.jojohe.world.inventory.MaskFetchMenu;
+import net.mcreator.jojohe.world.inventory.MaskDestroyMenu;
+import net.mcreator.jojohe.world.inventory.HumanSkillTreeSpecialMenu;
+import net.mcreator.jojohe.world.inventory.HumanSkillTreeRangedMenu;
+import net.mcreator.jojohe.world.inventory.HumanSkillTreePhysicalMenu;
+import net.mcreator.jojohe.world.inventory.HermitChangeMenu;
+import net.mcreator.jojohe.world.inventory.HamonSkillTreeSupportMenu;
+import net.mcreator.jojohe.world.inventory.HamonSkillTreeSpecialMenu;
+import net.mcreator.jojohe.world.inventory.HamonSkillTreeProjectileMenu;
+import net.mcreator.jojohe.world.inventory.HamonSkillTreePhysicalMenu;
+import net.mcreator.jojohe.world.inventory.HamonSkillTreeMovementMenu;
+import net.mcreator.jojohe.world.inventory.HamonLearnTonpettyMenu;
+import net.mcreator.jojohe.world.inventory.HamonLearnMenu;
+import net.mcreator.jojohe.world.inventory.DefenderLearnMenu;
+import net.mcreator.jojohe.world.inventory.DefenderChangeMenu;
+import net.mcreator.jojohe.world.inventory.BoxingChangeMenu;
+import net.mcreator.jojohe.world.inventory.BookFetchMenu;
+import net.mcreator.jojohe.world.inventory.BloodVampireQuestMenu;
+import net.mcreator.jojohe.world.inventory.BloodVampireLearnMenu;
+import net.mcreator.jojohe.world.inventory.BloodChangeMenu;
+import net.mcreator.jojohe.world.inventory.AbilityWheelVampireMenu;
+import net.mcreator.jojohe.world.inventory.AbilityWheelMenu;
+import net.mcreator.jojohe.world.inventory.AbilityWheelHamonMenu;
+import net.mcreator.jojohe.JojoheMod;
+
+public class JojoheModMenus {
+	public static final DeferredRegister<MenuType<?>> REGISTRY = DeferredRegister.create(ForgeRegistries.MENU_TYPES, JojoheMod.MODID);
+	public static final RegistryObject<MenuType<SpawnGUIMenu>> SPAWN_GUI = REGISTRY.register("spawn_gui", () -> IForgeMenuType.create(SpawnGUIMenu::new));
+	public static final RegistryObject<MenuType<SpawnGUIHamonMenu>> SPAWN_GUI_HAMON = REGISTRY.register("spawn_gui_hamon", () -> IForgeMenuType.create(SpawnGUIHamonMenu::new));
+	public static final RegistryObject<MenuType<SpawnGUIVampMenu>> SPAWN_GUI_VAMP = REGISTRY.register("spawn_gui_vamp", () -> IForgeMenuType.create(SpawnGUIVampMenu::new));
+	public static final RegistryObject<MenuType<MaskDestroyMenu>> MASK_DESTROY = REGISTRY.register("mask_destroy", () -> IForgeMenuType.create(MaskDestroyMenu::new));
+	public static final RegistryObject<MenuType<MaskFetchMenu>> MASK_FETCH = REGISTRY.register("mask_fetch", () -> IForgeMenuType.create(MaskFetchMenu::new));
+	public static final RegistryObject<MenuType<TopHatFetchMenu>> TOP_HAT_FETCH = REGISTRY.register("top_hat_fetch", () -> IForgeMenuType.create(TopHatFetchMenu::new));
+	public static final RegistryObject<MenuType<WarriorLearnMenu>> WARRIOR_LEARN = REGISTRY.register("warrior_learn", () -> IForgeMenuType.create(WarriorLearnMenu::new));
+	public static final RegistryObject<MenuType<HamonLearnMenu>> HAMON_LEARN = REGISTRY.register("hamon_learn", () -> IForgeMenuType.create(HamonLearnMenu::new));
+	public static final RegistryObject<MenuType<WarriorChangeMenu>> WARRIOR_CHANGE = REGISTRY.register("warrior_change", () -> IForgeMenuType.create(WarriorChangeMenu::new));
+	public static final RegistryObject<MenuType<DefenderChangeMenu>> DEFENDER_CHANGE = REGISTRY.register("defender_change", () -> IForgeMenuType.create(DefenderChangeMenu::new));
+	public static final RegistryObject<MenuType<WisdomChangeMenu>> WISDOM_CHANGE = REGISTRY.register("wisdom_change", () -> IForgeMenuType.create(WisdomChangeMenu::new));
+	public static final RegistryObject<MenuType<HermitChangeMenu>> HERMIT_CHANGE = REGISTRY.register("hermit_change", () -> IForgeMenuType.create(HermitChangeMenu::new));
+	public static final RegistryObject<MenuType<WisdomLearnMenu>> WISDOM_LEARN = REGISTRY.register("wisdom_learn", () -> IForgeMenuType.create(WisdomLearnMenu::new));
+	public static final RegistryObject<MenuType<DefenderLearnMenu>> DEFENDER_LEARN = REGISTRY.register("defender_learn", () -> IForgeMenuType.create(DefenderLearnMenu::new));
+	public static final RegistryObject<MenuType<BookFetchMenu>> BOOK_FETCH = REGISTRY.register("book_fetch", () -> IForgeMenuType.create(BookFetchMenu::new));
+	public static final RegistryObject<MenuType<RoseFetchMenu>> ROSE_FETCH = REGISTRY.register("rose_fetch", () -> IForgeMenuType.create(RoseFetchMenu::new));
+	public static final RegistryObject<MenuType<MaskFetchTonpettyMenu>> MASK_FETCH_TONPETTY = REGISTRY.register("mask_fetch_tonpetty", () -> IForgeMenuType.create(MaskFetchTonpettyMenu::new));
+	public static final RegistryObject<MenuType<HamonLearnTonpettyMenu>> HAMON_LEARN_TONPETTY = REGISTRY.register("hamon_learn_tonpetty", () -> IForgeMenuType.create(HamonLearnTonpettyMenu::new));
+	public static final RegistryObject<MenuType<BloodVampireQuestMenu>> BLOOD_VAMPIRE_QUEST = REGISTRY.register("blood_vampire_quest", () -> IForgeMenuType.create(BloodVampireQuestMenu::new));
+	public static final RegistryObject<MenuType<ShadowVampireQuestMenu>> SHADOW_VAMPIRE_QUEST = REGISTRY.register("shadow_vampire_quest", () -> IForgeMenuType.create(ShadowVampireQuestMenu::new));
+	public static final RegistryObject<MenuType<NecroVampireQuestMenu>> NECRO_VAMPIRE_QUEST = REGISTRY.register("necro_vampire_quest", () -> IForgeMenuType.create(NecroVampireQuestMenu::new));
+	public static final RegistryObject<MenuType<BloodVampireLearnMenu>> BLOOD_VAMPIRE_LEARN = REGISTRY.register("blood_vampire_learn", () -> IForgeMenuType.create(BloodVampireLearnMenu::new));
+	public static final RegistryObject<MenuType<ShadowVampireLearnMenu>> SHADOW_VAMPIRE_LEARN = REGISTRY.register("shadow_vampire_learn", () -> IForgeMenuType.create(ShadowVampireLearnMenu::new));
+	public static final RegistryObject<MenuType<NecroVampireLearnMenu>> NECRO_VAMPIRE_LEARN = REGISTRY.register("necro_vampire_learn", () -> IForgeMenuType.create(NecroVampireLearnMenu::new));
+	public static final RegistryObject<MenuType<VampireChangeMenu>> VAMPIRE_CHANGE = REGISTRY.register("vampire_change", () -> IForgeMenuType.create(VampireChangeMenu::new));
+	public static final RegistryObject<MenuType<BloodChangeMenu>> BLOOD_CHANGE = REGISTRY.register("blood_change", () -> IForgeMenuType.create(BloodChangeMenu::new));
+	public static final RegistryObject<MenuType<ShadowChangeMenu>> SHADOW_CHANGE = REGISTRY.register("shadow_change", () -> IForgeMenuType.create(ShadowChangeMenu::new));
+	public static final RegistryObject<MenuType<NecroChangeMenu>> NECRO_CHANGE = REGISTRY.register("necro_change", () -> IForgeMenuType.create(NecroChangeMenu::new));
+	public static final RegistryObject<MenuType<SpeedwagonChoiceMenu>> SPEEDWAGON_CHOICE = REGISTRY.register("speedwagon_choice", () -> IForgeMenuType.create(SpeedwagonChoiceMenu::new));
+	public static final RegistryObject<MenuType<StreetFightLearnMenu>> STREET_FIGHT_LEARN = REGISTRY.register("street_fight_learn", () -> IForgeMenuType.create(StreetFightLearnMenu::new));
+	public static final RegistryObject<MenuType<StreetFighterChangeMenu>> STREET_FIGHTER_CHANGE = REGISTRY.register("street_fighter_change", () -> IForgeMenuType.create(StreetFighterChangeMenu::new));
+	public static final RegistryObject<MenuType<BoxingChangeMenu>> BOXING_CHANGE = REGISTRY.register("boxing_change", () -> IForgeMenuType.create(BoxingChangeMenu::new));
+	public static final RegistryObject<MenuType<AbilityWheelMenu>> ABILITY_WHEEL = REGISTRY.register("ability_wheel", () -> IForgeMenuType.create(AbilityWheelMenu::new));
+	public static final RegistryObject<MenuType<AbilityWheelHamonMenu>> ABILITY_WHEEL_HAMON = REGISTRY.register("ability_wheel_hamon", () -> IForgeMenuType.create(AbilityWheelHamonMenu::new));
+	public static final RegistryObject<MenuType<AbilityWheelVampireMenu>> ABILITY_WHEEL_VAMPIRE = REGISTRY.register("ability_wheel_vampire", () -> IForgeMenuType.create(AbilityWheelVampireMenu::new));
+	public static final RegistryObject<MenuType<HamonSkillTreePhysicalMenu>> HAMON_SKILL_TREE_PHYSICAL = REGISTRY.register("hamon_skill_tree_physical", () -> IForgeMenuType.create(HamonSkillTreePhysicalMenu::new));
+	public static final RegistryObject<MenuType<HamonSkillTreeProjectileMenu>> HAMON_SKILL_TREE_PROJECTILE = REGISTRY.register("hamon_skill_tree_projectile", () -> IForgeMenuType.create(HamonSkillTreeProjectileMenu::new));
+	public static final RegistryObject<MenuType<HamonSkillTreeMovementMenu>> HAMON_SKILL_TREE_MOVEMENT = REGISTRY.register("hamon_skill_tree_movement", () -> IForgeMenuType.create(HamonSkillTreeMovementMenu::new));
+	public static final RegistryObject<MenuType<HamonSkillTreeSpecialMenu>> HAMON_SKILL_TREE_SPECIAL = REGISTRY.register("hamon_skill_tree_special", () -> IForgeMenuType.create(HamonSkillTreeSpecialMenu::new));
+	public static final RegistryObject<MenuType<HamonSkillTreeSupportMenu>> HAMON_SKILL_TREE_SUPPORT = REGISTRY.register("hamon_skill_tree_support", () -> IForgeMenuType.create(HamonSkillTreeSupportMenu::new));
+	public static final RegistryObject<MenuType<VampireSkillTreePhysicalMenu>> VAMPIRE_SKILL_TREE_PHYSICAL = REGISTRY.register("vampire_skill_tree_physical", () -> IForgeMenuType.create(VampireSkillTreePhysicalMenu::new));
+	public static final RegistryObject<MenuType<VampireSkillTreeRangedMenu>> VAMPIRE_SKILL_TREE_RANGED = REGISTRY.register("vampire_skill_tree_ranged", () -> IForgeMenuType.create(VampireSkillTreeRangedMenu::new));
+	public static final RegistryObject<MenuType<VampireSkillTreeSpecialMenu>> VAMPIRE_SKILL_TREE_SPECIAL = REGISTRY.register("vampire_skill_tree_special", () -> IForgeMenuType.create(VampireSkillTreeSpecialMenu::new));
+	public static final RegistryObject<MenuType<VampireSkillTreeSupportMenu>> VAMPIRE_SKILL_TREE_SUPPORT = REGISTRY.register("vampire_skill_tree_support", () -> IForgeMenuType.create(VampireSkillTreeSupportMenu::new));
+	public static final RegistryObject<MenuType<VampireSkillTreeMovementMenu>> VAMPIRE_SKILL_TREE_MOVEMENT = REGISTRY.register("vampire_skill_tree_movement", () -> IForgeMenuType.create(VampireSkillTreeMovementMenu::new));
+	public static final RegistryObject<MenuType<PlayerStatMenuMenu>> PLAYER_STAT_MENU = REGISTRY.register("player_stat_menu", () -> IForgeMenuType.create(PlayerStatMenuMenu::new));
+	public static final RegistryObject<MenuType<HumanSkillTreePhysicalMenu>> HUMAN_SKILL_TREE_PHYSICAL = REGISTRY.register("human_skill_tree_physical", () -> IForgeMenuType.create(HumanSkillTreePhysicalMenu::new));
+	public static final RegistryObject<MenuType<HumanSkillTreeRangedMenu>> HUMAN_SKILL_TREE_RANGED = REGISTRY.register("human_skill_tree_ranged", () -> IForgeMenuType.create(HumanSkillTreeRangedMenu::new));
+	public static final RegistryObject<MenuType<HumanSkillTreeSpecialMenu>> HUMAN_SKILL_TREE_SPECIAL = REGISTRY.register("human_skill_tree_special", () -> IForgeMenuType.create(HumanSkillTreeSpecialMenu::new));
+}

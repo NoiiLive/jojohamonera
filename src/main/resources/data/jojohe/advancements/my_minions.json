@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:blood_bottle"
+    },
+    "title": {
+      "translate": "advancements.my_minions.title"
+    },
+    "description": {
+      "translate": "advancements.my_minions.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "my_minions": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:root_vampire"
+}

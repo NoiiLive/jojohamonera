@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:speedwagon_armor_chestplate"
+    },
+    "title": {
+      "translate": "advancements.speed_armor_full.title"
+    },
+    "description": {
+      "translate": "advancements.speed_armor_full.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "speed_armor_full": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:dio_armor_full"
+}

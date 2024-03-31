@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "c c",
+    "c c"
+  ],
+  "key": {
+    "a": {
+      "item": "jojohe:orange_cloth"
+    },
+    "b": {
+      "item": "minecraft:gold_nugget"
+    },
+    "c": {
+      "item": "jojohe:gray_cloth"
+    }
+  },
+  "result": {
+    "item": "jojohe:jonathan_armor_leggings",
+    "count": 1
+  }
+}

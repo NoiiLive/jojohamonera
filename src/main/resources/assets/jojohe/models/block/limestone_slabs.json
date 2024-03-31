@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "jojohe:block/limestone",
+    "top": "jojohe:block/limestone",
+    "side": "jojohe:block/limestone"
+  },
+  "render_type": "solid"
+}

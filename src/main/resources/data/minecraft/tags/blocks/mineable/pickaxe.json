@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "jojohe:limestone",
+    "jojohe:limestone_bricks",
+    "jojohe:chiseled_limestone",
+    "jojohe:limestone_brick_stairs",
+    "jojohe:limestone_stairs",
+    "jojohe:limestone_slabs",
+    "jojohe:limestone_brick_slabs"
+  ]
+}

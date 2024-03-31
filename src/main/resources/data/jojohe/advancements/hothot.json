@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:hot_item"
+    },
+    "title": {
+      "translate": "advancements.hothot.title"
+    },
+    "description": {
+      "translate": "advancements.hothot.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "hothot": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:humanity_reject"
+}

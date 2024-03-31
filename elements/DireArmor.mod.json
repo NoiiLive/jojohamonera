@@ -1,0 +1,74 @@
+{
+  "_fv": 57,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": false,
+    "textureHelmet": "",
+    "enableBody": true,
+    "textureBody": "dire_shirt",
+    "enableLeggings": true,
+    "textureLeggings": "dire_pants",
+    "enableBoots": true,
+    "textureBoots": "dire_shoes",
+    "creativeTab": {
+      "value": "CUSTOM:PhantomBloodArmor"
+    },
+    "armorTextureFile": "invis_",
+    "helmetName": "Dire Armor Helmet",
+    "bodyName": "Dire's Shirt",
+    "leggingsName": "Dire's Pants",
+    "bootsName": "Dire's Shoes",
+    "helmetSpecialInformation": {
+      "fixedValue": []
+    },
+    "bodySpecialInformation": {
+      "fixedValue": []
+    },
+    "leggingsSpecialInformation": {
+      "fixedValue": []
+    },
+    "bootsSpecialInformation": {
+      "fixedValue": []
+    },
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "ModelDireShirt",
+    "bodyModelPart": "Chest",
+    "armsModelPartL": "LeftArm",
+    "armsModelPartR": "RightArm",
+    "bodyModelTexture": "direarmor.png",
+    "leggingsModelName": "ModelDirePants",
+    "leggingsModelPartL": "LeftLeg",
+    "leggingsModelPartR": "RightLeg",
+    "leggingsModelTexture": "direarmor.png",
+    "bootsModelName": "ModelDireShoes",
+    "bootsModelPartL": "LeftShoe",
+    "bootsModelPartR": "RightShoe",
+    "bootsModelTexture": "direarmor.png",
+    "helmetItemRenderType": 0,
+    "helmetItemCustomModelName": "Normal",
+    "bodyItemRenderType": 0,
+    "bodyItemCustomModelName": "Normal",
+    "leggingsItemRenderType": 0,
+    "leggingsItemCustomModelName": "Normal",
+    "bootsItemRenderType": 0,
+    "bootsItemCustomModelName": "Normal",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 25,
+    "damageValueHelmet": 2,
+    "damageValueBody": 3,
+    "damageValueLeggings": 2,
+    "damageValueBoots": 2,
+    "enchantability": 9,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

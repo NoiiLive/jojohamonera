@@ -1,0 +1,7 @@
+{
+  "parent": "jojohe:custom/jacktheripperknife",
+  "textures": {
+    "0": "jojohe:block/jacktheripper",
+    "particle": "jojohe:item/jtrknife"
+  }
+}

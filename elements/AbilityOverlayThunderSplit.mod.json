@@ -1,0 +1,268 @@
+{
+  "_fv": 57,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_switch_display_he.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "DontReturn"
+          },
+          "anchorPoint": "CENTER",
+          "x": 326,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_thundercross.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnThunderSplit1"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 402,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_thundercross.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnThunderSplit2"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 383,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_thundercross.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnThunderSplit3"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 364,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_thundercross.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnThunderSplit4"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 345,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_thundercross.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnThunderSplit5"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_thundercross.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnThunderSplit6"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 383,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_thundercross.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnThunderSplit7"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 364,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_thundercross.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnThunderSplit8"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 345,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_thundercross.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnThunderSplit9"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_thundercross_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnThunderSplitSelected1"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 402,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_thundercross_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnThunderSplitSelected2"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 383,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_thundercross_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnThunderSplitSelected3"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 364,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_thundercross_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnThunderSplitSelected4"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 345,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_thundercross_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnThunderSplitSelected5"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_thundercross_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnThunderSplitSelected6"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 383,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_thundercross_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnThunderSplitSelected7"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 364,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_thundercross_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnThunderSplitSelected8"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 345,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_thundercross_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnThunderSplitSelected9"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 196
+        }
+      }
+    ],
+    "baseTexture": "",
+    "overlayTarget": "Ingame",
+    "displayCondition": {
+      "name": "ReturnHamonUser"
+    },
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

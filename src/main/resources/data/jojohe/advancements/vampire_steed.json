@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:vampire_steed_item"
+    },
+    "title": {
+      "translate": "advancements.vampire_steed.title"
+    },
+    "description": {
+      "translate": "advancements.vampire_steed.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "vampire_steed": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:chimera_summon"
+}

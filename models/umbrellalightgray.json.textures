@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "umbrella_light_gray"
+      },
+      "name": "default"
+    }
+  }
+}

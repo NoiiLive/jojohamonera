@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:ground_ripple_item"
+    },
+    "title": {
+      "translate": "advancements.ground_ripple.title"
+    },
+    "description": {
+      "translate": "advancements.ground_ripple.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "ground_ripple": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:root_wisdom"
+}

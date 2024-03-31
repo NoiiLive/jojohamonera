@@ -1,0 +1,43 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Entities",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [
+      {
+        "value": "CUSTOM:Dire"
+      },
+      {
+        "value": "CUSTOM:HamonUser1"
+      },
+      {
+        "value": "CUSTOM:HamonUser2"
+      },
+      {
+        "value": "CUSTOM:HamonUser3"
+      },
+      {
+        "value": "CUSTOM:HamonUser4"
+      },
+      {
+        "value": "CUSTOM:JonathanJoestar"
+      },
+      {
+        "value": "CUSTOM:Straizo"
+      },
+      {
+        "value": "CUSTOM:Tonpetty"
+      },
+      {
+        "value": "CUSTOM:WillAZeppeli"
+      }
+    ],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "hamon_users",
+    "namespace": "mod"
+  }
+}

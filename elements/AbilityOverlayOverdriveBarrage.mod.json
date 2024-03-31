@@ -1,0 +1,268 @@
+{
+  "_fv": 57,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_switch_display_he.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "DontReturn"
+          },
+          "anchorPoint": "CENTER",
+          "x": 326,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_odbarrage.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnOverdriveBarrage1"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 402,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_odbarrage.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnOverdriveBarrage2"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 383,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_odbarrage.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnOverdriveBarrage3"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 364,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_odbarrage.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnOverdriveBarrage4"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 345,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_odbarrage.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnOverdriveBarrage5"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_odbarrage.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnOverdriveBarrage6"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 383,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_odbarrage.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnOverdriveBarrage7"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 364,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_odbarrage.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnOverdriveBarrage8"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 345,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_odbarrage.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnOverdriveBarrage9"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_odbarrage_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnOverdriveBarrageSelected1"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 402,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_odbarrage_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnOverdriveBarrageSelected2"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 383,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_odbarrage_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnOverdriveBarrageSelected3"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 364,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_odbarrage_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnOverdriveBarrageSelected4"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 345,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_odbarrage_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnOverdriveBarrageSelected5"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_odbarrage_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnOverdriveBarrageSelected6"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 383,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_odbarrage_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnOverdriveBarrageSelected7"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 364,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_odbarrage_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnOverdriveBarrageSelected8"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 345,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_odbarrage_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnOverdriveBarrageSelected9"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 196
+        }
+      }
+    ],
+    "baseTexture": "",
+    "overlayTarget": "Ingame",
+    "displayCondition": {
+      "name": "ReturnHamonUser"
+    },
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

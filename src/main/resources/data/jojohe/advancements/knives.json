@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:iron_knife"
+    },
+    "title": {
+      "translate": "advancements.knives.title"
+    },
+    "description": {
+      "translate": "advancements.knives.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "knives": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:jo_jo_bizarre_weapon"
+}

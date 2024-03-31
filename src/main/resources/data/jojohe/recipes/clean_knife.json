@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "jojohe:bloody_iron_knife"
+    }
+  ],
+  "result": {
+    "item": "jojohe:iron_knife",
+    "count": 1
+  }
+}

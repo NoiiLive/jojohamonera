@@ -1,0 +1,785 @@
+{
+  "maskactivation": {
+    "subtitle": "subtitles.maskactivation",
+    "sounds": [
+      {
+        "name": "jojohe:maskactivation",
+        "stream": false
+      }
+    ]
+  },
+  "vampireconversion": {
+    "subtitle": "subtitles.vampireconversion",
+    "sounds": [
+      {
+        "name": "jojohe:conversion",
+        "stream": false
+      }
+    ]
+  },
+  "vampirefreeze": {
+    "subtitle": "subtitles.vampirefreeze",
+    "sounds": [
+      {
+        "name": "jojohe:vamp_freeze",
+        "stream": false
+      }
+    ]
+  },
+  "spaceripper": {
+    "subtitle": "subtitles.spaceripper",
+    "sounds": [
+      {
+        "name": "jojohe:spaceripper",
+        "stream": false
+      }
+    ]
+  },
+  "summonminion": {
+    "subtitle": "subtitles.summonminion",
+    "sounds": [
+      {
+        "name": "jojohe:summonminion",
+        "stream": false
+      }
+    ]
+  },
+  "zoompunch": {
+    "subtitle": "subtitles.zoompunch",
+    "sounds": [
+      {
+        "name": "jojohe:zoompunch",
+        "stream": false
+      }
+    ]
+  },
+  "sunlightyellowoverdrive": {
+    "subtitle": "subtitles.sunlightyellowoverdrive",
+    "sounds": [
+      {
+        "name": "jojohe:sunlightoverdrive",
+        "stream": false
+      }
+    ]
+  },
+  "bladespin": {
+    "subtitle": "subtitles.bladespin",
+    "sounds": [
+      {
+        "name": "jojohe:bladespin",
+        "stream": false
+      }
+    ]
+  },
+  "bubbleshot": {
+    "subtitle": "subtitles.bubbleshot",
+    "sounds": [
+      {
+        "name": "jojohe:bubbleshot",
+        "stream": false
+      }
+    ]
+  },
+  "hamoncutter": {
+    "subtitle": "subtitles.hamoncutter",
+    "sounds": [
+      {
+        "name": "jojohe:hamoncutter",
+        "stream": false
+      }
+    ]
+  },
+  "ourworkisdone": {
+    "subtitle": "subtitles.ourworkisdone",
+    "sounds": [
+      {
+        "name": "jojohe:speedwagonmask",
+        "stream": false
+      }
+    ]
+  },
+  "sonochinosadame": {
+    "subtitle": "subtitles.sonochinosadame",
+    "sounds": [
+      {
+        "name": "jojohe:sono_chi_no_sadame_opening",
+        "stream": true
+      }
+    ]
+  },
+  "aduoofcourage": {
+    "subtitle": "subtitles.aduoofcourage",
+    "sounds": [
+      {
+        "name": "jojohe:a_duo_of_courage",
+        "stream": true
+      }
+    ]
+  },
+  "afinefellowshowsup": {
+    "subtitle": "subtitles.afinefellowshowsup",
+    "sounds": [
+      {
+        "name": "jojohe:a_fine_fellow_shows_up",
+        "stream": true
+      }
+    ]
+  },
+  "asuperhumanreborn": {
+    "subtitle": "subtitles.asuperhumanreborn",
+    "sounds": [
+      {
+        "name": "jojohe:a_superhuman_reborn",
+        "stream": true
+      }
+    ]
+  },
+  "asuddenturn": {
+    "subtitle": "subtitles.asuddenturn",
+    "sounds": [
+      {
+        "name": "jojohe:a_sudden_turn",
+        "stream": true
+      }
+    ]
+  },
+  "destiniesbroughttogether": {
+    "subtitle": "subtitles.destiniesbroughttogether",
+    "sounds": [
+      {
+        "name": "jojohe:destinies_brought_together",
+        "stream": true
+      }
+    ]
+  },
+  "determination": {
+    "subtitle": "subtitles.determination",
+    "sounds": [
+      {
+        "name": "jojohe:determination",
+        "stream": true
+      }
+    ]
+  },
+  "fatherslove": {
+    "subtitle": "subtitles.fatherslove",
+    "sounds": [
+      {
+        "name": "jojohe:fathers_love",
+        "stream": true
+      }
+    ]
+  },
+  "fromthedarkabyss": {
+    "subtitle": "subtitles.fromthedarkabyss",
+    "sounds": [
+      {
+        "name": "jojohe:from_the_dark_abyss",
+        "stream": true
+      }
+    ]
+  },
+  "gapsoftheheart": {
+    "subtitle": "subtitles.gapsoftheheart",
+    "sounds": [
+      {
+        "name": "jojohe:gaps_of_the_heart",
+        "stream": true
+      }
+    ]
+  },
+  "heartofdarkness": {
+    "subtitle": "subtitles.heartofdarkness",
+    "sounds": [
+      {
+        "name": "jojohe:heart_of_darkness",
+        "stream": true
+      }
+    ]
+  },
+  "bubblelauncher": {
+    "subtitle": "subtitles.bubblelauncher",
+    "sounds": [
+      {
+        "name": "jojohe:bubblelauncher",
+        "stream": false
+      }
+    ]
+  },
+  "hiddenfeelings": {
+    "subtitle": "subtitles.hiddenfeelings",
+    "sounds": [
+      {
+        "name": "jojohe:hidden_feelings_dio_theme",
+        "stream": true
+      }
+    ]
+  },
+  "intertwineddestinies": {
+    "subtitle": "subtitles.intertwineddestinies",
+    "sounds": [
+      {
+        "name": "jojohe:intertwined_destinite",
+        "stream": true
+      }
+    ]
+  },
+  "joestarfamily": {
+    "subtitle": "subtitles.joestarfamily",
+    "sounds": [
+      {
+        "name": "jojohe:joestar_family",
+        "stream": true
+      }
+    ]
+  },
+  "lightningspeed": {
+    "subtitle": "subtitles.lightningspeed",
+    "sounds": [
+      {
+        "name": "jojohe:lightning_speed",
+        "stream": true
+      }
+    ]
+  },
+  "livelylove": {
+    "subtitle": "subtitles.livelylove",
+    "sounds": [
+      {
+        "name": "jojohe:lively_love",
+        "stream": true
+      }
+    ]
+  },
+  "partingregrets": {
+    "subtitle": "subtitles.partingregrets",
+    "sounds": [
+      {
+        "name": "jojohe:parting_regrets",
+        "stream": true
+      }
+    ]
+  },
+  "persistenceinnocentstream": {
+    "subtitle": "subtitles.persistenceinnocentstream",
+    "sounds": [
+      {
+        "name": "jojohe:persistence_innocent_stream_jojo_theme",
+        "stream": true
+      }
+    ]
+  },
+  "resultsoftheplot": {
+    "subtitle": "subtitles.resultsoftheplot",
+    "sounds": [
+      {
+        "name": "jojohe:results_of_the_plot",
+        "stream": true
+      }
+    ]
+  },
+  "stonemaskprologue": {
+    "subtitle": "subtitles.stonemaskprologue",
+    "sounds": [
+      {
+        "name": "jojohe:stone_mask_prologue",
+        "stream": true
+      }
+    ]
+  },
+  "stonemaskthesecret": {
+    "subtitle": "subtitles.stonemaskthesecret",
+    "sounds": [
+      {
+        "name": "jojohe:stone_mask_the_secret",
+        "stream": true
+      }
+    ]
+  },
+  "struttingtheogrestreet": {
+    "subtitle": "subtitles.struttingtheogrestreet",
+    "sounds": [
+      {
+        "name": "jojohe:strutting_the_ogre_street_speed_theme",
+        "stream": true
+      }
+    ]
+  },
+  "suspicion": {
+    "subtitle": "subtitles.suspicion",
+    "sounds": [
+      {
+        "name": "jojohe:suspicion",
+        "stream": true
+      }
+    ]
+  },
+  "transcend": {
+    "subtitle": "subtitles.transcend",
+    "sounds": [
+      {
+        "name": "jojohe:transcend",
+        "stream": true
+      }
+    ]
+  },
+  "twoboys": {
+    "subtitle": "subtitles.twoboys",
+    "sounds": [
+      {
+        "name": "jojohe:two_boys",
+        "stream": true
+      }
+    ]
+  },
+  "amomentshappiness": {
+    "subtitle": "subtitles.amomentshappiness",
+    "sounds": [
+      {
+        "name": "jojohe:a_moments_happiness",
+        "stream": true
+      }
+    ]
+  },
+  "apeacethatembraces": {
+    "subtitle": "subtitles.apeacethatembraces",
+    "sounds": [
+      {
+        "name": "jojohe:a_peace_that_embraces",
+        "stream": true
+      }
+    ]
+  },
+  "capturethetarget": {
+    "subtitle": "subtitles.capturethetarget",
+    "sounds": [
+      {
+        "name": "jojohe:capture_the_target_zeppeli_theme",
+        "stream": true
+      }
+    ]
+  },
+  "carveoutyourripple": {
+    "subtitle": "subtitles.carveoutyourripple",
+    "sounds": [
+      {
+        "name": "jojohe:carve_out_your_ripple_dire_theme",
+        "stream": true
+      }
+    ]
+  },
+  "chainedpower": {
+    "subtitle": "subtitles.chainedpower",
+    "sounds": [
+      {
+        "name": "jojohe:chained_power",
+        "stream": true
+      }
+    ]
+  },
+  "confrontation": {
+    "subtitle": "subtitles.confrontation",
+    "sounds": [
+      {
+        "name": "jojohe:confrontation",
+        "stream": true
+      }
+    ]
+  },
+  "conviction": {
+    "subtitle": "subtitles.conviction",
+    "sounds": [
+      {
+        "name": "jojohe:conviction_straizo_theme",
+        "stream": true
+      }
+    ]
+  },
+  "dawn": {
+    "subtitle": "subtitles.dawn",
+    "sounds": [
+      {
+        "name": "jojohe:dawn",
+        "stream": true
+      }
+    ]
+  },
+  "descisivebattleoverlappingdestinies": {
+    "subtitle": "subtitles.descisivebattleoverlappingdestinies",
+    "sounds": [
+      {
+        "name": "jojohe:decisive_battle_overlapping_destinies",
+        "stream": true
+      }
+    ]
+  },
+  "depthsofthepaledarkness": {
+    "subtitle": "subtitles.depthsofthepaledarkness",
+    "sounds": [
+      {
+        "name": "jojohe:depths_of_the_pale_darkness",
+        "stream": true
+      }
+    ]
+  },
+  "friendship": {
+    "subtitle": "subtitles.friendship",
+    "sounds": [
+      {
+        "name": "jojohe:friendship",
+        "stream": true
+      }
+    ]
+  },
+  "dullbodycourage": {
+    "subtitle": "subtitles.dullbodycourage",
+    "sounds": [
+      {
+        "name": "jojohe:full_body_courage",
+        "stream": true
+      }
+    ]
+  },
+  "heartbeat": {
+    "subtitle": "subtitles.heartbeat",
+    "sounds": [
+      {
+        "name": "jojohe:heartbeat",
+        "stream": true
+      }
+    ]
+  },
+  "hermeticartsuser": {
+    "subtitle": "subtitles.hermeticartsuser",
+    "sounds": [
+      {
+        "name": "jojohe:hermetic_arts_user",
+        "stream": true
+      }
+    ]
+  },
+  "knightsofterror": {
+    "subtitle": "subtitles.knightsofterror",
+    "sounds": [
+      {
+        "name": "jojohe:knights_of_terror_knights_theme",
+        "stream": true
+      }
+    ]
+  },
+  "looktowardtomorrow": {
+    "subtitle": "subtitles.looktowardtomorrow",
+    "sounds": [
+      {
+        "name": "jojohe:look_toward_tomorrow",
+        "stream": true
+      }
+    ]
+  },
+  "mysteriousvisitor": {
+    "subtitle": "subtitles.mysteriousvisitor",
+    "sounds": [
+      {
+        "name": "jojohe:mysterious_visitor",
+        "stream": true
+      }
+    ]
+  },
+  "overdrive": {
+    "subtitle": "subtitles.overdrive",
+    "sounds": [
+      {
+        "name": "jojohe:overdrive",
+        "stream": true
+      }
+    ]
+  },
+  "parting": {
+    "subtitle": "subtitles.parting",
+    "sounds": [
+      {
+        "name": "jojohe:parting",
+        "stream": true
+      }
+    ]
+  },
+  "returnfromthevergeofdeath": {
+    "subtitle": "subtitles.returnfromthevergeofdeath",
+    "sounds": [
+      {
+        "name": "jojohe:return_from_the_verge_of_death",
+        "stream": true
+      }
+    ]
+  },
+  "silenthorizon": {
+    "subtitle": "subtitles.silenthorizon",
+    "sounds": [
+      {
+        "name": "jojohe:silent_horizon",
+        "stream": true
+      }
+    ]
+  },
+  "thetaleoftheirlove": {
+    "subtitle": "subtitles.thetaleoftheirlove",
+    "sounds": [
+      {
+        "name": "jojohe:the_tale_of_their_love",
+        "stream": true
+      }
+    ]
+  },
+  "undiscoveredpowerancientfruits": {
+    "subtitle": "subtitles.undiscoveredpowerancientfruits",
+    "sounds": [
+      {
+        "name": "jojohe:undiscovered_power_ancient_fruits",
+        "stream": true
+      }
+    ]
+  },
+  "wavesofsunundiscoveredpower": {
+    "subtitle": "subtitles.wavesofsunundiscoveredpower",
+    "sounds": [
+      {
+        "name": "jojohe:waves_of_sun_undiscovered_power",
+        "stream": true
+      }
+    ]
+  },
+  "withhumanityaffectionandnobility": {
+    "subtitle": "subtitles.withhumanityaffectionandnobility",
+    "sounds": [
+      {
+        "name": "jojohe:with_humanity_affection_and_nobility",
+        "stream": true
+      }
+    ]
+  },
+  "whistle": {
+    "subtitle": "subtitles.whistle",
+    "sounds": [
+      {
+        "name": "jojohe:whistle",
+        "stream": false
+      }
+    ]
+  },
+  "hamonpassive": {
+    "subtitle": "subtitles.hamonpassive",
+    "sounds": [
+      {
+        "name": "jojohe:hamonpassive",
+        "stream": false
+      }
+    ]
+  },
+  "hamonelectric": {
+    "subtitle": "subtitles.hamonelectric",
+    "sounds": [
+      {
+        "name": "jojohe:hamonelectric",
+        "stream": false
+      }
+    ]
+  },
+  "rosetoss": {
+    "subtitle": "subtitles.rosetoss",
+    "sounds": [
+      {
+        "name": "jojohe:rosetoss",
+        "stream": false
+      }
+    ]
+  },
+  "lefthook": {
+    "subtitle": "subtitles.lefthook",
+    "sounds": [
+      {
+        "name": "jojohe:lefthook",
+        "stream": false
+      }
+    ]
+  },
+  "humanspirit": {
+    "subtitle": "subtitles.humanspirit",
+    "sounds": [
+      {
+        "name": "jojohe:humanspirit",
+        "stream": false
+      }
+    ]
+  },
+  "invisible": {
+    "subtitle": "subtitles.invisible",
+    "sounds": [
+      {
+        "name": "jojohe:invisible",
+        "stream": false
+      }
+    ]
+  },
+  "resilience": {
+    "subtitle": "subtitles.resilience",
+    "sounds": [
+      {
+        "name": "jojohe:hinjakuhinjaku",
+        "stream": false
+      }
+    ]
+  },
+  "wryyy": {
+    "subtitle": "subtitles.wryyy",
+    "sounds": [
+      {
+        "name": "jojohe:wryyy",
+        "stream": false
+      }
+    ]
+  },
+  "clawbarrage": {
+    "subtitle": "subtitles.clawbarrage",
+    "sounds": [
+      {
+        "name": "jojohe:clawbarrage",
+        "stream": false
+      }
+    ]
+  },
+  "undeadarmy": {
+    "subtitle": "subtitles.undeadarmy",
+    "sounds": [
+      {
+        "name": "jojohe:mudamuda",
+        "stream": false
+      }
+    ]
+  },
+  "scarletoverdrive": {
+    "subtitle": "subtitles.scarletoverdrive",
+    "sounds": [
+      {
+        "name": "jojohe:scarletoverdrive",
+        "stream": false
+      }
+    ]
+  },
+  "evolve": {
+    "subtitle": "subtitles.evolve",
+    "sounds": [
+      {
+        "name": "jojohe:evolve",
+        "stream": false
+      }
+    ]
+  },
+  "slamcrash": {
+    "subtitle": "subtitles.slamcrash",
+    "sounds": [
+      {
+        "name": "jojohe:slam_crash",
+        "stream": false
+      }
+    ]
+  },
+  "afterimages": {
+    "subtitle": "subtitles.afterimages",
+    "sounds": [
+      {
+        "name": "jojohe:afterimageripple",
+        "stream": false
+      }
+    ]
+  },
+  "teleport": {
+    "subtitle": "subtitles.teleport",
+    "sounds": [
+      {
+        "name": "jojohe:teleport",
+        "stream": false
+      }
+    ]
+  },
+  "sendooverdrive": {
+    "subtitle": "subtitles.sendooverdrive",
+    "sounds": [
+      {
+        "name": "jojohe:sendooverdrive",
+        "stream": false
+      }
+    ]
+  },
+  "hamondash": {
+    "subtitle": "subtitles.hamondash",
+    "sounds": [
+      {
+        "name": "jojohe:hamonjump",
+        "stream": false
+      }
+    ]
+  },
+  "thundersplit": {
+    "subtitle": "subtitles.thundersplit",
+    "sounds": [
+      {
+        "name": "jojohe:thundersplit",
+        "stream": false
+      }
+    ]
+  },
+  "humanbarrage": {
+    "subtitle": "subtitles.humanbarrage",
+    "sounds": [
+      {
+        "name": "jojohe:humanbarrage",
+        "stream": false
+      }
+    ]
+  },
+  "hamonbarrage": {
+    "subtitle": "subtitles.hamonbarrage",
+    "sounds": [
+      {
+        "name": "jojohe:hamonbarrage",
+        "stream": false
+      }
+    ]
+  },
+  "hamon_charge": {
+    "subtitle": "subtitles.hamon_charge",
+    "sounds": [
+      {
+        "name": "jojohe:hamon_charge",
+        "stream": false
+      }
+    ]
+  },
+  "roundabout": {
+    "subtitle": "subtitles.roundabout",
+    "sounds": [
+      {
+        "name": "jojohe:roundabout_ending",
+        "stream": true
+      }
+    ]
+  },
+  "philosopher_complete": {
+    "subtitle": "subtitles.philosopher_complete",
+    "sounds": [
+      {
+        "name": "jojohe:philosopher_complete",
+        "stream": false
+      }
+    ]
+  },
+  "philosopher_activate": {
+    "subtitle": "subtitles.philosopher_activate",
+    "sounds": [
+      {
+        "name": "jojohe:philosopher_activate",
+        "stream": false
+      }
+    ]
+  }
+}

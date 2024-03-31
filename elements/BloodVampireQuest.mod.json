@@ -1,0 +1,97 @@
+{
+  "_fv": 57,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 200,
+    "height": 110,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_you_look_ready_to_fight_vampires",
+          "text": {
+            "fixedValue": "Hohoh... You seek bloodshed?"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 139,
+          "y": 86
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_bring_me_a_stone_mask",
+          "text": {
+            "fixedValue": "Very well weakling,"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 164,
+          "y": 106
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_and_i_will_teach_you_hamon",
+          "text": {
+            "fixedValue": "Listen to my words closely."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 144,
+          "y": 126
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_ok",
+          "text": "Ok",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "MenuOpenBloodLearn"
+          },
+          "width": 35,
+          "height": 20,
+          "x": 262,
+          "y": 146
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_no",
+          "text": "No",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "MenuClose"
+          },
+          "width": 35,
+          "height": 20,
+          "x": 127,
+          "y": 146
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 10,
+      "sy": 10,
+      "ox": 6,
+      "oy": 1,
+      "snapOnGrid": true
+    }
+  }
+}

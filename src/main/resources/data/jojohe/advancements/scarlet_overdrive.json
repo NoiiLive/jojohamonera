@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:scarlet_overdrive_iem"
+    },
+    "title": {
+      "translate": "advancements.scarlet_overdrive.title"
+    },
+    "description": {
+      "translate": "advancements.scarlet_overdrive.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "scarlet_overdrive": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:zoom_punch"
+}

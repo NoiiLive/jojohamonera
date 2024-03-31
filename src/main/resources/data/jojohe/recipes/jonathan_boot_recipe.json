@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "b b",
+    "b b"
+  ],
+  "key": {
+    "a": {
+      "item": "jojohe:brown_cloth"
+    },
+    "b": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "jojohe:jonathan_armor_boots",
+    "count": 1
+  }
+}

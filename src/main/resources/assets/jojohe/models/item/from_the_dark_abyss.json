@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "jojohe:item/from_the_dark_abyss"
+  }
+}

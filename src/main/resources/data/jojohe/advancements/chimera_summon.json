@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:chimera_item"
+    },
+    "title": {
+      "translate": "advancements.chimera_summon.title"
+    },
+    "description": {
+      "translate": "advancements.chimera_summon.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "chimera_summon": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:root_necro"
+}

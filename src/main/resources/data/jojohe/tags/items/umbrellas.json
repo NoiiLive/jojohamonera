@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "jojohe:white_umbrella",
+    "jojohe:light_gray_umbrella",
+    "jojohe:gray_umbrella",
+    "jojohe:blue_umbrella",
+    "jojohe:light_blue_umbrella",
+    "jojohe:cyan_umbrella",
+    "jojohe:green_umbrella",
+    "jojohe:lime_umbrella",
+    "jojohe:yellow_umbrella",
+    "jojohe:orange_umbrella",
+    "jojohe:red_umbrella",
+    "jojohe:brown_umbrella",
+    "jojohe:black_umbrella",
+    "jojohe:purple_umbrella",
+    "jojohe:magenta_umbrella",
+    "jojohe:pink_umbrella"
+  ]
+}

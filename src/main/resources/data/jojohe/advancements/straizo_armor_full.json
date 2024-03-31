@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:straizo_armor_chestplate"
+    },
+    "title": {
+      "translate": "advancements.straizo_armor_full.title"
+    },
+    "description": {
+      "translate": "advancements.straizo_armor_full.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "straizo_armor_full": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:dire_armor_full"
+}

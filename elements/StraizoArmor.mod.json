@@ -1,0 +1,74 @@
+{
+  "_fv": 57,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "straizoneck",
+    "enableBody": true,
+    "textureBody": "straizo_shirt",
+    "enableLeggings": true,
+    "textureLeggings": "straizo_pants",
+    "enableBoots": true,
+    "textureBoots": "straizo_boots",
+    "creativeTab": {
+      "value": "CUSTOM:PhantomBloodArmor"
+    },
+    "armorTextureFile": "invis_",
+    "helmetName": "Straizo's Neck Cover",
+    "bodyName": "Straizo's Cloak",
+    "leggingsName": "Straizo's Pants",
+    "bootsName": "Straizo's Boots",
+    "helmetSpecialInformation": {
+      "fixedValue": []
+    },
+    "bodySpecialInformation": {
+      "fixedValue": []
+    },
+    "leggingsSpecialInformation": {
+      "fixedValue": []
+    },
+    "bootsSpecialInformation": {
+      "fixedValue": []
+    },
+    "helmetModelName": "ModelStraizoShirt",
+    "helmetModelPart": "Head",
+    "helmetModelTexture": "straizoarmor.png",
+    "bodyModelName": "ModelStraizoShirt",
+    "bodyModelPart": "Chest",
+    "armsModelPartL": "LeftArm",
+    "armsModelPartR": "RightArm",
+    "bodyModelTexture": "straizoarmor.png",
+    "leggingsModelName": "ModelStraizoPants",
+    "leggingsModelPartL": "LeftLeg",
+    "leggingsModelPartR": "RightLeg",
+    "leggingsModelTexture": "straizoarmor.png",
+    "bootsModelName": "ModelStraizoShoes",
+    "bootsModelPartL": "LeftBoot",
+    "bootsModelPartR": "RightBoot",
+    "bootsModelTexture": "straizoarmor.png",
+    "helmetItemRenderType": 0,
+    "helmetItemCustomModelName": "Normal",
+    "bodyItemRenderType": 0,
+    "bodyItemCustomModelName": "Normal",
+    "leggingsItemRenderType": 0,
+    "leggingsItemCustomModelName": "Normal",
+    "bootsItemRenderType": 0,
+    "bootsItemCustomModelName": "Normal",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 25,
+    "damageValueHelmet": 2,
+    "damageValueBody": 2,
+    "damageValueLeggings": 2,
+    "damageValueBoots": 2,
+    "enchantability": 9,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

@@ -1,0 +1,607 @@
+{
+  "_fv": 57,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 0,
+    "height": 0,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "statpage.png",
+          "use1Xscale": false,
+          "x": 104,
+          "y": 45
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_hamon_user",
+          "text": {
+            "fixedValue": "",
+            "name": "ReturnRaceText"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 118,
+          "y": 62
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_return_root_text",
+          "text": {
+            "fixedValue": "",
+            "name": "ReturnRootText"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 207,
+          "y": 62
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_gui_arrow",
+          "image": "gui_arrow.png",
+          "hoveredImage": "gui_arrow_h.png",
+          "onClick": {
+            "name": "OpenSkillTreePhysical"
+          },
+          "x": 297,
+          "y": 85
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_open_skill_tree",
+          "text": {
+            "fixedValue": "Open Skill Tree"
+          },
+          "width": 17,
+          "height": 23,
+          "x": 295,
+          "y": 83
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "expbar_22.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "PlayerEXP22"
+          },
+          "x": 113,
+          "y": 117
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "expbar_21.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "PlayerEXP21"
+          },
+          "x": 113,
+          "y": 117
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "expbar_20.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "PlayerEXP20"
+          },
+          "x": 113,
+          "y": 117
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "expbar_19.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "PlayerEXP19"
+          },
+          "x": 113,
+          "y": 117
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "expbar_18.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "PlayerEXP18"
+          },
+          "x": 113,
+          "y": 117
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "expbar_17.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "PlayerEXP17"
+          },
+          "x": 113,
+          "y": 117
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "expbar_16.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "PlayerEXP16"
+          },
+          "x": 113,
+          "y": 117
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "expbar_15.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "PlayerEXP15"
+          },
+          "x": 113,
+          "y": 117
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "expbar_14.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "PlayerEXP14"
+          },
+          "x": 113,
+          "y": 117
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "expbar_13.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "PlayerEXP13"
+          },
+          "x": 113,
+          "y": 117
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "expbar_12.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "PlayerEXP12"
+          },
+          "x": 113,
+          "y": 117
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "expbar_11.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "PlayerEXP11"
+          },
+          "x": 113,
+          "y": 117
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "expbar_10.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "PlayerEXP10"
+          },
+          "x": 113,
+          "y": 117
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "expbar_9.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "PlayerEXP9"
+          },
+          "x": 113,
+          "y": 117
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "expbar_8.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "PlayerEXP8"
+          },
+          "x": 113,
+          "y": 117
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "expbar_7.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "PlayerEXP7"
+          },
+          "x": 113,
+          "y": 117
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "expbar_6.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "PlayerEXP6"
+          },
+          "x": 113,
+          "y": 117
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "expbar_5.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "PlayerEXP5"
+          },
+          "x": 113,
+          "y": 117
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "expbar_4.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "PlayerEXP4"
+          },
+          "x": 113,
+          "y": 117
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "expbar_3.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "PlayerEXP3"
+          },
+          "x": 113,
+          "y": 117
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "expbar_2.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "PlayerEXP2"
+          },
+          "x": 113,
+          "y": 117
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "expbar_1.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "PlayerEXP1"
+          },
+          "x": 113,
+          "y": 117
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_proc_return_exp_tooltip",
+          "text": {
+            "fixedValue": "",
+            "name": "ReturnEXPTooltip"
+          },
+          "width": 34,
+          "height": 87,
+          "x": 114,
+          "y": 118
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_return_player_level",
+          "text": {
+            "fixedValue": "",
+            "name": "ReturnPlayerLevel"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 156,
+          "y": 86
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_return_skill_points",
+          "text": {
+            "fixedValue": "",
+            "name": "ReturnSkillPoints"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 156,
+          "y": 104
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_return_mastery",
+          "text": {
+            "fixedValue": "",
+            "name": "ReturnMastery"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 156,
+          "y": 122
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_return_strength",
+          "text": {
+            "fixedValue": "",
+            "name": "ReturnStrength"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 156,
+          "y": 140
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_return_speed",
+          "text": {
+            "fixedValue": "",
+            "name": "ReturnSpeed"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 156,
+          "y": 158
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_return_durability",
+          "text": {
+            "fixedValue": "",
+            "name": "ReturnDurability"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 156,
+          "y": 176
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_return_willpower",
+          "text": {
+            "fixedValue": "",
+            "name": "ReturnWillpower"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 156,
+          "y": 193
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_pointadd_button",
+          "image": "pointadd_button.png",
+          "hoveredImage": "pointadd_button_h.png",
+          "onClick": {
+            "name": "WillpowerStatAdd"
+          },
+          "displayCondition": {
+            "name": "WillpowerAddDisplay"
+          },
+          "x": 286,
+          "y": 187
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_pointadd_button1",
+          "image": "pointadd_button.png",
+          "hoveredImage": "pointadd_button_h.png",
+          "onClick": {
+            "name": "DurabilityStatAdd"
+          },
+          "displayCondition": {
+            "name": "DurabilityAddDisplay"
+          },
+          "x": 286,
+          "y": 170
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_pointadd_button2",
+          "image": "pointadd_button.png",
+          "hoveredImage": "pointadd_button_h.png",
+          "onClick": {
+            "name": "SpeedStatAdd"
+          },
+          "displayCondition": {
+            "name": "SpeedAddDisplay"
+          },
+          "x": 286,
+          "y": 152
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_pointadd_button3",
+          "image": "pointadd_button.png",
+          "hoveredImage": "pointadd_button_h.png",
+          "onClick": {
+            "name": "StrengthStatAdd"
+          },
+          "displayCondition": {
+            "name": "StrengthAddDisplay"
+          },
+          "x": 286,
+          "y": 134
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_increases_your_health_and_decre",
+          "text": {
+            "fixedValue": "Increases your Health, and Decreases Damage Taken"
+          },
+          "displayCondition": {
+            "name": "DurabilityAddDisplay"
+          },
+          "width": 25,
+          "height": 15,
+          "x": 286,
+          "y": 170
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_decreases_the_cooldowns_of_your",
+          "text": {
+            "fixedValue": "Decreases the Cooldowns of your Moves"
+          },
+          "displayCondition": {
+            "name": "SpeedAddDisplay"
+          },
+          "width": 25,
+          "height": 15,
+          "x": 286,
+          "y": 152
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_increases_the_power_of_your_move",
+          "text": {
+            "fixedValue": "Increases the Power of your Moves"
+          },
+          "displayCondition": {
+            "name": "StrengthAddDisplay"
+          },
+          "width": 25,
+          "height": 15,
+          "x": 286,
+          "y": 134
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_allows_you_to_acquire_more_moves",
+          "text": {
+            "fixedValue": "Allows you to Acquire More Moves and EXP"
+          },
+          "displayCondition": {
+            "name": "WillpowerAddDisplay"
+          },
+          "width": 25,
+          "height": 15,
+          "x": 286,
+          "y": 187
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

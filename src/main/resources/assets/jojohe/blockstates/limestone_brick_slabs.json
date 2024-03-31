@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "jojohe:block/limestone_brick_slabs"
+    },
+    "type=top": {
+      "model": "jojohe:block/limestone_brick_slabs_top"
+    },
+    "type=double": {
+      "model": "jojohe:block/limestone_brick_slabs_full"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:magenta_wool"
+    },
+    {
+      "item": "minecraft:magenta_terracotta"
+    }
+  ],
+  "result": {
+    "item": "jojohe:magenta_wallpaper",
+    "count": 2
+  }
+}

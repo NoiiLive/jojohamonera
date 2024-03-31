@@ -1,0 +1,12 @@
+{
+  "_fv": 57,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "NUMPAD7",
+    "keyBindingName": "Use Ability 7",
+    "keyBindingCategoryKey": "jojohekeybinds",
+    "onKeyPressed": {
+      "name": "KeybindAbility7"
+    }
+  }
+}

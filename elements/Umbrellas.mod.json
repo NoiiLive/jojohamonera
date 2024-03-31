@@ -1,0 +1,64 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:WhiteUmbrella"
+      },
+      {
+        "value": "CUSTOM:LightGrayUmbrella"
+      },
+      {
+        "value": "CUSTOM:GrayUmbrella"
+      },
+      {
+        "value": "CUSTOM:BlueUmbrella"
+      },
+      {
+        "value": "CUSTOM:LightBlueUmbrella"
+      },
+      {
+        "value": "CUSTOM:CyanUmbrella"
+      },
+      {
+        "value": "CUSTOM:GreenUmbrella"
+      },
+      {
+        "value": "CUSTOM:LimeUmbrella"
+      },
+      {
+        "value": "CUSTOM:YellowUmbrella"
+      },
+      {
+        "value": "CUSTOM:OrangeUmbrella"
+      },
+      {
+        "value": "CUSTOM:RedUmbrella"
+      },
+      {
+        "value": "CUSTOM:BrownUmbrella"
+      },
+      {
+        "value": "CUSTOM:BlackUmbrella"
+      },
+      {
+        "value": "CUSTOM:PurpleUmbrella"
+      },
+      {
+        "value": "CUSTOM:MagentaUmbrella"
+      },
+      {
+        "value": "CUSTOM:PinkUmbrella"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "umbrellas",
+    "namespace": "mod"
+  }
+}

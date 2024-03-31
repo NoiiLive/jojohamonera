@@ -1,0 +1,268 @@
+{
+  "_fv": 57,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_switch_display_he.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "DontReturn"
+          },
+          "anchorPoint": "CENTER",
+          "x": 326,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_afterimages.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAfterimages1"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 402,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_afterimages.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAfterimages2"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 383,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_afterimages.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAfterimages3"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 364,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_afterimages.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAfterimages4"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 345,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_afterimages.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAfterimages5"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_afterimages.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAfterimages6"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 383,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_afterimages.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAfterimages7"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 364,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_afterimages.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAfterimages8"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 345,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_afterimages.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAfterimages9"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_afterimages_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAfterimagesSelected1"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 402,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_afterimages_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAfterimages2"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 383,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_afterimages_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAfterimagesSelected3"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 364,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_afterimages_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAfterimagesSelected4"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 345,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_afterimages_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAfterimagesSelected5"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 215
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_afterimages_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAfterimagesSelected6"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 383,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_afterimages_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAfterimagesSelected7"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 364,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_afterimages_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAfterimagesSelected8"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 345,
+          "y": 196
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ability_h_afterimages_h.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnAfterimagesSelected9"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 326,
+          "y": 196
+        }
+      }
+    ],
+    "baseTexture": "",
+    "overlayTarget": "Ingame",
+    "displayCondition": {
+      "name": "ReturnHamonUser"
+    },
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

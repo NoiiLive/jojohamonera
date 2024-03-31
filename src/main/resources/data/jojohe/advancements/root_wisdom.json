@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:wisdom_item"
+    },
+    "title": {
+      "translate": "advancements.root_wisdom.title"
+    },
+    "description": {
+      "translate": "advancements.root_wisdom.descr"
+    },
+    "frame": "challenge",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "root_wisdom": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:hamon_user"
+}

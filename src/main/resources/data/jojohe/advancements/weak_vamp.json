@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:weak_vamp_item"
+    },
+    "title": {
+      "translate": "advancements.weak_vamp.title"
+    },
+    "description": {
+      "translate": "advancements.weak_vamp.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "weak_vamp": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:humanity_reject"
+}

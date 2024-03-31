@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:left_hook_item"
+    },
+    "title": {
+      "translate": "advancements.left_hook.title"
+    },
+    "description": {
+      "translate": "advancements.left_hook.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "left_hook": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:root_boxing"
+}

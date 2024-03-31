@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:boxing_glove"
+    },
+    "title": {
+      "translate": "advancements.jam_my_thumb.title"
+    },
+    "description": {
+      "translate": "advancements.jam_my_thumb.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "jam_my_thumb": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:sledgehammer"
+}

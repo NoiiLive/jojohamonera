@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "jojohe:tarkus_chamber",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 65,
+    "separation": 40,
+    "salt": 660286791
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "jojohe:custom/luck",
+  "textures": {
+    "0": "jojohe:block/lucktexture",
+    "particle": "jojohe:item/luck"
+  }
+}

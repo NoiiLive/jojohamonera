@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jojohe:block/limestone",
+    "up": "jojohe:block/limestone",
+    "north": "jojohe:block/limestone",
+    "east": "jojohe:block/limestone",
+    "south": "jojohe:block/limestone",
+    "west": "jojohe:block/limestone",
+    "particle": "jojohe:block/limestone"
+  },
+  "render_type": "solid"
+}

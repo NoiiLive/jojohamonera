@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "jojohe:black_cloth"
+    },
+    "b": {
+      "item": "minecraft:feather"
+    },
+    "c": {
+      "item": "jojohe:purple_cloth"
+    }
+  },
+  "result": {
+    "item": "jojohe:speedwagon_armor_helmet",
+    "count": 1
+  }
+}

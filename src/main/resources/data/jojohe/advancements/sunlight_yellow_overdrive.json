@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:sunlight_yellow_item"
+    },
+    "title": {
+      "translate": "advancements.sunlight_yellow_overdrive.title"
+    },
+    "description": {
+      "translate": "advancements.sunlight_yellow_overdrive.descr"
+    },
+    "frame": "goal",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "sunlight_yellow_overdrive": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:scarlet_overdrive"
+}

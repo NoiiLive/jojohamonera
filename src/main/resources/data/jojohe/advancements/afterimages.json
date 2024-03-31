@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:afterimages_item"
+    },
+    "title": {
+      "translate": "advancements.afterimages.title"
+    },
+    "description": {
+      "translate": "advancements.afterimages.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "afterimages": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:rose_toss"
+}

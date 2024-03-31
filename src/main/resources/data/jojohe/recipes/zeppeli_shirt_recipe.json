@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "aba",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "jojohe:white_cloth"
+    },
+    "b": {
+      "item": "jojohe:red_cloth"
+    }
+  },
+  "result": {
+    "item": "jojohe:zeppeli_armor_chestplate",
+    "count": 1
+  }
+}

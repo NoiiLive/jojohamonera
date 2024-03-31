@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    " c ",
+    "cc "
+  ],
+  "key": {
+    "a": {
+      "item": "jojohe:light_gray_cloth"
+    },
+    "b": {
+      "item": "minecraft:light_gray_wool"
+    },
+    "c": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "item": "jojohe:light_gray_umbrella",
+    "count": 1
+  }
+}

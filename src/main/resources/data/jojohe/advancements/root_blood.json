@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:bloodbathed_item"
+    },
+    "title": {
+      "translate": "advancements.root_blood.title"
+    },
+    "description": {
+      "translate": "advancements.root_blood.descr"
+    },
+    "frame": "challenge",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "root_blood": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:vampire_tree"
+}

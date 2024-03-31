@@ -1,0 +1,16 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "birch_forest",
+    "dark_forest",
+    "forest",
+    "taiga",
+    "plains"
+  ],
+  "spawners": {
+    "type": "jojohe:vampire_4",
+    "weight": 5,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

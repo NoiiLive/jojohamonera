@@ -1,0 +1,19 @@
+{
+  "_fv": 57,
+  "_type": "projectile",
+  "definition": {
+    "projectileItem": {
+      "value": "CUSTOM:ZoomPunchItem"
+    },
+    "showParticles": false,
+    "actionSound": {
+      "value": ""
+    },
+    "igniteFire": false,
+    "power": 2.0,
+    "damage": 3.0,
+    "knockback": 2,
+    "entityModel": "ModelZoomPunch",
+    "customModelTexture": "invis.png"
+  }
+}

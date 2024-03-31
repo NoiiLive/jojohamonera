@@ -1,0 +1,7 @@
+{
+  "parent": "jojohe:custom/tarkusgreatsword",
+  "textures": {
+    "0": "jojohe:block/tarkussword",
+    "particle": "jojohe:item/tarkus_greatsword"
+  }
+}

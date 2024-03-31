@@ -1,0 +1,175 @@
+{
+  "_fv": 57,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 185,
+    "height": 202,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": true,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "name": "button_select",
+          "text": "Select",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "SelectVampire"
+          },
+          "width": 56,
+          "height": 20,
+          "x": 184,
+          "y": 194
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_empty",
+          "text": "<",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "SpawnGuiHOpen"
+          },
+          "width": 30,
+          "height": 20,
+          "x": 83,
+          "y": 109
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_empty1",
+          "text": ">",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "SpawnGuiOpen"
+          },
+          "width": 30,
+          "height": 20,
+          "x": 313,
+          "y": 109
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "vampireplate.png",
+          "use1Xscale": false,
+          "x": 127,
+          "y": 25
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "dark.png",
+          "use1Xscale": false,
+          "x": 131,
+          "y": 59
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_start_with_vampirism_and",
+          "text": {
+            "fixedValue": "Start with vampirism, and "
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 137,
+          "y": 65
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_achieve_great_powers",
+          "text": {
+            "fixedValue": "achieve great powers!"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 137,
+          "y": 79
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_ultimate_space_ripper",
+          "text": {
+            "fixedValue": "Ultimate:  Space Ripper"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 137,
+          "y": 167
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_secondary_freeze",
+          "text": {
+            "fixedValue": "Secondary:  Freeze"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 137,
+          "y": 153
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_primary_zombie_minion",
+          "text": {
+            "fixedValue": "Primary:  Zombie Minion"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 137,
+          "y": 139
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_abilities",
+          "text": {
+            "fixedValue": "Starting Abilities:"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 137,
+          "y": 125
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 4,
+      "sy": 4,
+      "ox": 1,
+      "oy": 1,
+      "snapOnGrid": true
+    }
+  }
+}

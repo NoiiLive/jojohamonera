@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:shadow_teleport_item"
+    },
+    "title": {
+      "translate": "advancements.shadow_teleport.title"
+    },
+    "description": {
+      "translate": "advancements.shadow_teleport.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "shadow_teleport": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:invisibility"
+}

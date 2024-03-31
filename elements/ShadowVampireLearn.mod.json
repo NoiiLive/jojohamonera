@@ -1,0 +1,82 @@
+{
+  "_fv": 57,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 200,
+    "height": 110,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_you_look_ready_to_fight_vampires",
+          "text": {
+            "fixedValue": "To obtain my power..."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 164,
+          "y": 86
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_bring_me_a_stone_mask",
+          "text": {
+            "fixedValue": "Travel to the depths of the world "
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 129,
+          "y": 106
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_and_i_will_teach_you_hamon",
+          "text": {
+            "fixedValue": "Then return to me."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 169,
+          "y": 126
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_alright",
+          "text": "Alright",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "MenuClose"
+          },
+          "width": 61,
+          "height": 20,
+          "x": 184,
+          "y": 146
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 10,
+      "sy": 10,
+      "ox": 6,
+      "oy": 1,
+      "snapOnGrid": true
+    }
+  }
+}

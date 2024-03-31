@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom",
+  "textures": {
+    "bottom": "jojohe:blocks/fancy_white_bottom",
+    "top": "jojohe:blocks/fancy_white_top"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "jojohe:white_cloth",
+    "jojohe:light_gray_cloth",
+    "jojohe:gray_cloth",
+    "jojohe:black_cloth",
+    "jojohe:brown_cloth",
+    "jojohe:red_cloth",
+    "jojohe:orange_cloth",
+    "jojohe:yellow_cloth",
+    "jojohe:lime_cloth",
+    "jojohe:green_cloth",
+    "jojohe:cyan_cloth",
+    "jojohe:light_blue_cloth",
+    "jojohe:blue_cloth",
+    "jojohe:purple_cloth",
+    "jojohe:magenta_cloth",
+    "jojohe:pink_cloth"
+  ]
+}

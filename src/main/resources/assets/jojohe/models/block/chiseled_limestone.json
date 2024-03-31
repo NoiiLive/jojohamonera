@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jojohe:block/chiseledlimestone",
+    "up": "jojohe:block/chiseledlimestone",
+    "north": "jojohe:block/chiseledlimestone",
+    "east": "jojohe:block/chiseledlimestone",
+    "south": "jojohe:block/chiseledlimestone",
+    "west": "jojohe:block/chiseledlimestone",
+    "particle": "jojohe:block/chiseledlimestone"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,25 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Entities",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [
+      {
+        "value": "CUSTOM:KempoMaster"
+      },
+      {
+        "value": "CUSTOM:REOSpeedwagon"
+      },
+      {
+        "value": "CUSTOM:Tattoo"
+      }
+    ],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "humans",
+    "namespace": "mod"
+  }
+}

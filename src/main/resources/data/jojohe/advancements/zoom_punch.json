@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:zoom_punch_item"
+    },
+    "title": {
+      "translate": "advancements.zoom_punch.title"
+    },
+    "description": {
+      "translate": "advancements.zoom_punch.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "zoom_punch": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:root_warrior"
+}

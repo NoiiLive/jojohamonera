@@ -1,0 +1,85 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Entities",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [
+      {
+        "value": "CUSTOM:BloodDio"
+      },
+      {
+        "value": "CUSTOM:Bruford"
+      },
+      {
+        "value": "CUSTOM:CatBirdChimera"
+      },
+      {
+        "value": "CUSTOM:CatBirdChimeraNOAI"
+      },
+      {
+        "value": "CUSTOM:DioBrando"
+      },
+      {
+        "value": "CUSTOM:DogHumanChimera"
+      },
+      {
+        "value": "CUSTOM:DogHumanChimeraNOAI"
+      },
+      {
+        "value": "CUSTOM:HoodedVampire1"
+      },
+      {
+        "value": "CUSTOM:HoodedVampire2"
+      },
+      {
+        "value": "CUSTOM:HoodedVampire3"
+      },
+      {
+        "value": "CUSTOM:HoodedVampire4"
+      },
+      {
+        "value": "CUSTOM:Vampire1"
+      },
+      {
+        "value": "CUSTOM:Vampire2"
+      },
+      {
+        "value": "CUSTOM:Vampire3"
+      },
+      {
+        "value": "CUSTOM:Vampire4"
+      },
+      {
+        "value": "CUSTOM:VampireSteedEntity"
+      },
+      {
+        "value": "CUSTOM:VampireSteedNOAI"
+      },
+      {
+        "value": "CUSTOM:JackTheRipper"
+      },
+      {
+        "value": "CUSTOM:NecroDio"
+      },
+      {
+        "value": "CUSTOM:ShadowDio"
+      },
+      {
+        "value": "CUSTOM:Tarkus"
+      },
+      {
+        "value": "CUSTOM:ZombieMinion"
+      },
+      {
+        "value": "CUSTOM:ZombieMinionNOAI"
+      }
+    ],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "vampires",
+    "namespace": "mod"
+  }
+}

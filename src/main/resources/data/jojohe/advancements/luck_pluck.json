@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:pluck"
+    },
+    "title": {
+      "translate": "advancements.luck_pluck.title"
+    },
+    "description": {
+      "translate": "advancements.luck_pluck.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "luck_pluck": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:jo_jo_bizarre_weapon"
+}

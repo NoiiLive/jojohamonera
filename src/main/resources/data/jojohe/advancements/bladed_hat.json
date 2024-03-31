@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:speedwagon_armor_helmet"
+    },
+    "title": {
+      "translate": "advancements.bladed_hat.title"
+    },
+    "description": {
+      "translate": "advancements.bladed_hat.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "bladed_hat": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:goons"
+}

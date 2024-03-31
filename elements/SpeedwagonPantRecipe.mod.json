@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BlackCloth"
+      },
+      {
+        "value": "CUSTOM:BlackCloth"
+      },
+      {
+        "value": "CUSTOM:BlackCloth"
+      },
+      {
+        "value": "CUSTOM:BlackCloth"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BlackCloth"
+      },
+      {
+        "value": "CUSTOM:BlackCloth"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BlackCloth"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SpeedwagonArmor.legs"
+    },
+    "name": "speedwagon_pant_recipe",
+    "namespace": "mod"
+  }
+}

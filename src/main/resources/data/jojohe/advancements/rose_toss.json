@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:rose_toss_item"
+    },
+    "title": {
+      "translate": "advancements.rose_toss.title"
+    },
+    "description": {
+      "translate": "advancements.rose_toss.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "rose_toss": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:root_defender"
+}

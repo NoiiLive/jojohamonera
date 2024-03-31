@@ -1,0 +1,458 @@
+{
+  "_fv": 57,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 0,
+    "height": 0,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_icon.png",
+          "use1Xscale": false,
+          "x": 184,
+          "y": 91
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_icon.png",
+          "use1Xscale": false,
+          "x": 106,
+          "y": 91
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_icon.png",
+          "use1Xscale": false,
+          "x": 145,
+          "y": 52
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_icon.png",
+          "use1Xscale": false,
+          "x": 224,
+          "y": 130
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_icon.png",
+          "use1Xscale": false,
+          "x": 224,
+          "y": 52
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_icon.png",
+          "use1Xscale": false,
+          "x": 145,
+          "y": 130
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_icon.png",
+          "use1Xscale": false,
+          "x": 263,
+          "y": 91
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_lock.png",
+          "use1Xscale": false,
+          "x": 163,
+          "y": 68
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_lock.png",
+          "use1Xscale": false,
+          "x": 124,
+          "y": 107
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_lock.png",
+          "use1Xscale": false,
+          "x": 242,
+          "y": 146
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_lock.png",
+          "use1Xscale": false,
+          "x": 281,
+          "y": 107
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_wip_not_implemented",
+          "text": {
+            "fixedValue": "WIP - Not Implemented"
+          },
+          "width": 24,
+          "height": 24,
+          "x": 162,
+          "y": 69
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_wip_not_implemented1",
+          "text": {
+            "fixedValue": "WIP - Not Implemented"
+          },
+          "width": 24,
+          "height": 24,
+          "x": 123,
+          "y": 108
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_wip_not_implemented2",
+          "text": {
+            "fixedValue": "WIP - Not Implemented"
+          },
+          "width": 24,
+          "height": 24,
+          "x": 241,
+          "y": 147
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_wip_not_implemented3",
+          "text": {
+            "fixedValue": "WIP - Not Implemented"
+          },
+          "width": 24,
+          "height": 24,
+          "x": 280,
+          "y": 108
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_special.png",
+          "use1Xscale": false,
+          "x": 181,
+          "y": 13
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_guiarrow_left",
+          "image": "guiarrow_left.png",
+          "hoveredImage": "guiarrow_left_h.png",
+          "onClick": {
+            "name": "OpenSkillTreeRanged"
+          },
+          "x": 173,
+          "y": 13
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_gui_arrow",
+          "image": "gui_arrow.png",
+          "hoveredImage": "gui_arrow_h.png",
+          "onClick": {
+            "name": "OpenSkillTreeSupport"
+          },
+          "x": 241,
+          "y": 13
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_ranged",
+          "text": {
+            "fixedValue": "Ranged"
+          },
+          "width": 13,
+          "height": 19,
+          "x": 173,
+          "y": 13
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_support",
+          "text": {
+            "fixedValue": "Support"
+          },
+          "width": 13,
+          "height": 19,
+          "x": 241,
+          "y": 13
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_stat_guibutton",
+          "image": "stat_guibutton.png",
+          "hoveredImage": "stat_guibutton_h.png",
+          "onClick": {
+            "name": "OpenStatPageKeybind"
+          },
+          "x": 202,
+          "y": 148
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "hamon_sendo_overdrive.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnSendoRippleUnlocked"
+          },
+          "x": 197,
+          "y": 104
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "hamon_scarlet_overdrive.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ReturnScarletOverdriveUnlocked"
+          },
+          "x": 237,
+          "y": 65
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_rebindtab",
+          "image": "skilltree_rebindtab.png",
+          "hoveredImage": "skilltree_rebindtab_h.png",
+          "displayCondition": {
+            "name": "ReturnSendoRippleUnlocked"
+          },
+          "x": 204,
+          "y": 135
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_rebindtab1",
+          "image": "skilltree_rebindtab.png",
+          "hoveredImage": "skilltree_rebindtab_h.png",
+          "displayCondition": {
+            "name": "ReturnScarletOverdriveUnlocked"
+          },
+          "x": 244,
+          "y": 96
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_rebindtab2",
+          "image": "skilltree_rebindtab.png",
+          "hoveredImage": "skilltree_rebindtab_h.png",
+          "displayCondition": {
+            "name": "ReturnMetalSilverUnlocked"
+          },
+          "x": 165,
+          "y": 174
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_rebindtab3",
+          "image": "skilltree_rebindtab.png",
+          "hoveredImage": "skilltree_rebindtab_h.png",
+          "displayCondition": {
+            "name": "ReturnHamonBeatOverdriveUnlocked"
+          },
+          "x": 165,
+          "y": 96
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_rebindtab4",
+          "image": "skilltree_rebindtab.png",
+          "hoveredImage": "skilltree_rebindtab_h.png",
+          "displayCondition": {
+            "name": "ReturnHamonHairUnlocked"
+          },
+          "x": 126,
+          "y": 135
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_rebindtab5",
+          "image": "skilltree_rebindtab.png",
+          "hoveredImage": "skilltree_rebindtab_h.png",
+          "displayCondition": {
+            "name": "ReturnBubbleLensesUnlocked"
+          },
+          "x": 244,
+          "y": 174
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_rebindtab6",
+          "image": "skilltree_rebindtab.png",
+          "hoveredImage": "skilltree_rebindtab_h.png",
+          "displayCondition": {
+            "name": "ReturnBubbleBarrierUnlocked"
+          },
+          "x": 283,
+          "y": 135
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_lock",
+          "image": "skilltree_lock.png",
+          "hoveredImage": "skilltree_lock_h.png",
+          "onClick": {
+            "name": "UnlockScarletOverdrive"
+          },
+          "displayCondition": {
+            "name": "ReturnScarletOverdriveLocked"
+          },
+          "x": 242,
+          "y": 68
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_lock1",
+          "image": "skilltree_lock.png",
+          "hoveredImage": "skilltree_lock_h.png",
+          "onClick": {
+            "name": "UnlockedSendoRipple"
+          },
+          "displayCondition": {
+            "name": "ReturnSendoRippleLocked"
+          },
+          "x": 202,
+          "y": 107
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_lock2",
+          "image": "skilltree_lock.png",
+          "hoveredImage": "skilltree_lock_h.png",
+          "onClick": {
+            "name": "UnlockMetalSilver"
+          },
+          "displayCondition": {
+            "name": "ReturnMetalSilverLocked"
+          },
+          "x": 163,
+          "y": 146
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_scarlet_overdrive_0_willpower",
+          "text": {
+            "fixedValue": "Scarlet Overdrive : 0 Willpower, 0 Skill Points"
+          },
+          "displayCondition": {
+            "name": "ReturnScarletOverdriveLocked"
+          },
+          "width": 24,
+          "height": 24,
+          "x": 241,
+          "y": 69
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_sendo_ripple_overdrive_0_willp",
+          "text": {
+            "fixedValue": "Sendo Ripple Overdrive : 0 Willpower, 0 Skill Points"
+          },
+          "displayCondition": {
+            "name": "ReturnSendoRippleLocked"
+          },
+          "width": 24,
+          "height": 24,
+          "x": 201,
+          "y": 108
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_metal_silver_overdrive_0_willp",
+          "text": {
+            "fixedValue": "Metal Silver Overdrive : 0 Willpower, 0 Skill Points"
+          },
+          "displayCondition": {
+            "name": "ReturnMetalSilverLocked"
+          },
+          "width": 24,
+          "height": 24,
+          "x": 162,
+          "y": 147
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

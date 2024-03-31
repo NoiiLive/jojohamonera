@@ -1,0 +1,667 @@
+{
+  "_fv": 57,
+  "_type": "config",
+  "definition": {
+    "pools": [
+      {
+        "category": "Hamon Basics",
+        "entries": [
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 1.0,
+            "textDefault": "",
+            "comment": "Multiplier for Hamon damage against Vampires",
+            "vardisplay": "Hamon Damage Multiplier",
+            "varname": "hamondmgmult",
+            "enablecomment": true,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 5.0,
+            "textDefault": "",
+            "comment": "Amount of Hamon at No Mastery",
+            "vardisplay": "Hamon Bar Min",
+            "varname": "hamonbarmin",
+            "enablecomment": true,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 10.0,
+            "textDefault": "",
+            "comment": "Amount of Hamon at Max Mastery",
+            "vardisplay": "Hamon Bar Max",
+            "varname": "hamonbarmax",
+            "enablecomment": true,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          }
+        ]
+      },
+      {
+        "category": "Hamon Root: Hermit",
+        "entries": [
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "Hermit Max Attack",
+            "varname": "hermitmaxatk",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "Hermit Max Health",
+            "varname": "hermitmaxhealth",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "Hermit Max Speed",
+            "varname": "hermitmaxspeed",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          }
+        ]
+      },
+      {
+        "category": "Hamon Root: Warrior",
+        "entries": [
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 0,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "Warrior Enabled",
+            "varname": "warriorenabled",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "Warrior Max Attack",
+            "varname": "warriormaxatk",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "Warrior Max Health",
+            "varname": "warriormaxhealth",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "Warrior Max Speed",
+            "varname": "warriormaxspeed",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          }
+        ]
+      },
+      {
+        "category": "Hamon Root: Wisdom",
+        "entries": [
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 0,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "Wisdom Enabled",
+            "varname": "wisdomenabledatk",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "Wisdom Max Attack",
+            "varname": "wisdommax",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "Wisdom Max Health",
+            "varname": "wisdommaxhealth",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "Wisdom Max Speed",
+            "varname": "wisdommaxspeed",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          }
+        ]
+      },
+      {
+        "category": "Hamon Root: Defender",
+        "entries": [
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 0,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "Defender Enabled",
+            "varname": "defenderenabled",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "Defender Max Attack",
+            "varname": "defendermaxatk",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "Defender Max Health",
+            "varname": "defendermaxhealth",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "Defender Max Speed",
+            "varname": "defendermaxspeed",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          }
+        ]
+      },
+      {
+        "category": "Hamon Root: Envious",
+        "entries": [
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 0,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "Envious Enabled",
+            "varname": "enviousenabled",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "Envious Max Attack",
+            "varname": "enviousmaxatk",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "Envious Max Health",
+            "varname": "enviousmaxhealth",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "Envious Max Speed",
+            "varname": "enviousmaxspeed",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          }
+        ]
+      },
+      {
+        "category": "Hamon Root: Trickster",
+        "entries": [
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 0,
+            "block": {
+              "value": ""
+            },
+            "logicField": 1,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "Trickster Enabled",
+            "varname": "tricksterenabled",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "Trickster Max Attack",
+            "varname": "trickstermaxatk",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "Trickster Max Health",
+            "varname": "trickstermaxhealth",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "Trickster Max Speed",
+            "varname": "trickstermaxspeed",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          }
+        ]
+      },
+      {
+        "category": "Hamon Root: Bubbly",
+        "entries": [
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 0,
+            "block": {
+              "value": ""
+            },
+            "logicField": 1,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "Bubbly Enabled",
+            "varname": "bubblyenabled",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "Bubbly Max Attack",
+            "varname": "bubblymaxatk",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "Bubbly Max Health",
+            "varname": "bubblymaxhealth",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "Bubbly Max Speed",
+            "varname": "bubblymaxspeed",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          }
+        ]
+      },
+      {
+        "category": "Hamon Root: Stylish",
+        "entries": [
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 0,
+            "block": {
+              "value": ""
+            },
+            "logicField": 1,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "Stylish Enabled",
+            "varname": "stylishenabled",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "Stylish Max Attack",
+            "varname": "stylishmaxatk",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "Stylish Max Health",
+            "varname": "stylishmaxhealth",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "",
+            "vardisplay": "Stylish Max Speed",
+            "varname": "stylishmaxspeed",
+            "enablecomment": false,
+            "onlyComment": false,
+            "entityType": "CUSTOM:BloodDio"
+          }
+        ]
+      }
+    ],
+    "file": "jojohe_hamon",
+    "configType": 0
+  }
+}

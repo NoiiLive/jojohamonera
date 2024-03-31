@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    " c ",
+    "cc "
+  ],
+  "key": {
+    "a": {
+      "item": "jojohe:yellow_cloth"
+    },
+    "b": {
+      "item": "minecraft:yellow_wool"
+    },
+    "c": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "item": "jojohe:yellow_umbrella",
+    "count": 1
+  }
+}

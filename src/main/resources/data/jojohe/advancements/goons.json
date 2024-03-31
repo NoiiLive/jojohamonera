@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:goons_item"
+    },
+    "title": {
+      "translate": "advancements.goons.title"
+    },
+    "description": {
+      "translate": "advancements.goons.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "goons": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:root_street_fighter"
+}

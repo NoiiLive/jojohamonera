@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:vampire_item"
+    },
+    "title": {
+      "translate": "advancements.root_vampire.title"
+    },
+    "description": {
+      "translate": "advancements.root_vampire.descr"
+    },
+    "frame": "challenge",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "root_vampire": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:vampire_tree"
+}

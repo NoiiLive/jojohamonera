@@ -1,0 +1,90 @@
+{
+  "_fv": 57,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "zeppelihat",
+    "enableBody": true,
+    "textureBody": "zeppelishirt",
+    "enableLeggings": true,
+    "textureLeggings": "zeppelipants",
+    "enableBoots": true,
+    "textureBoots": "zeppelishoes",
+    "creativeTab": {
+      "value": "CUSTOM:PhantomBloodArmor"
+    },
+    "armorTextureFile": "invis_",
+    "helmetName": "Zeppeli's Hat",
+    "bodyName": "Zeppeli's Coat",
+    "leggingsName": "Zeppeli's Pants",
+    "bootsName": "Zeppeli's Shoes",
+    "helmetSpecialInformation": {
+      "fixedValue": []
+    },
+    "bodySpecialInformation": {
+      "fixedValue": []
+    },
+    "leggingsSpecialInformation": {
+      "fixedValue": []
+    },
+    "bootsSpecialInformation": {
+      "fixedValue": []
+    },
+    "helmetModelName": "ModelZeppeliHat",
+    "helmetModelPart": "head",
+    "helmetModelTexture": "williamzeppeliarmortexture.png",
+    "bodyModelName": "ModelZeppeliCoat",
+    "bodyModelPart": "torso",
+    "armsModelPartL": "left_arm",
+    "armsModelPartR": "right_arm",
+    "bodyModelTexture": "williamzeppeliarmortexture.png",
+    "leggingsModelName": "ModelZeppeliPants",
+    "leggingsModelPartL": "left_leg",
+    "leggingsModelPartR": "right_leg",
+    "leggingsModelTexture": "williamzeppeliarmortexture.png",
+    "bootsModelName": "ModelZeppeliShoes",
+    "bootsModelPartL": "left_shoe",
+    "bootsModelPartR": "right_shoe",
+    "bootsModelTexture": "williamzeppeliarmortexture.png",
+    "helmetItemRenderType": 0,
+    "helmetItemCustomModelName": "Normal",
+    "bodyItemRenderType": 0,
+    "bodyItemCustomModelName": "Normal",
+    "leggingsItemRenderType": 0,
+    "leggingsItemCustomModelName": "Normal",
+    "bootsItemRenderType": 0,
+    "bootsItemCustomModelName": "Normal",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "helmetPiglinNeutral": {
+      "fixedValue": false
+    },
+    "bodyPiglinNeutral": {
+      "fixedValue": false
+    },
+    "leggingsPiglinNeutral": {
+      "fixedValue": false
+    },
+    "bootsPiglinNeutral": {
+      "fixedValue": false
+    },
+    "maxDamage": 6,
+    "damageValueHelmet": 3,
+    "damageValueBody": 8,
+    "damageValueLeggings": 6,
+    "damageValueBoots": 3,
+    "enchantability": 9,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:WhiteCloth"
+      }
+    ]
+  }
+}

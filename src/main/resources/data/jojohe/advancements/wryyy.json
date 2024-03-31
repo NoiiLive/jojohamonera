@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:wryy_item"
+    },
+    "title": {
+      "translate": "advancements.wryyy.title"
+    },
+    "description": {
+      "translate": "advancements.wryyy.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "wryyy": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:claw_barrage"
+}

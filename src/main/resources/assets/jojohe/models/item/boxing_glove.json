@@ -1,0 +1,7 @@
+{
+  "parent": "jojohe:custom/redboxingglove",
+  "textures": {
+    "0": "jojohe:block/redglovetexture",
+    "particle": "jojohe:item/boxingglove"
+  }
+}

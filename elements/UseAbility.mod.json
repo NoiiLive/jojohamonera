@@ -1,0 +1,12 @@
+{
+  "_fv": 57,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "Z",
+    "keyBindingName": "Use Skill",
+    "keyBindingCategoryKey": "jojohe",
+    "onKeyPressed": {
+      "name": "UseAbilityKeybind"
+    }
+  }
+}

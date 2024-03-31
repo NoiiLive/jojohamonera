@@ -1,0 +1,19 @@
+{
+  "_fv": 57,
+  "_type": "projectile",
+  "definition": {
+    "projectileItem": {
+      "value": "CUSTOM:SpaceRipperItem"
+    },
+    "showParticles": false,
+    "actionSound": {
+      "value": ""
+    },
+    "igniteFire": false,
+    "power": 2.0,
+    "damage": 5.0,
+    "knockback": 3,
+    "entityModel": "ModelSpaceRipper",
+    "customModelTexture": "invis.png"
+  }
+}

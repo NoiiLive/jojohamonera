@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.LEATHER"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.LEATHER"
+      },
+      {
+        "value": "CUSTOM:PurpleCloth"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PurpleCloth"
+      },
+      {
+        "value": "Items.LEATHER"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.LEATHER"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DioArmor.boots"
+    },
+    "name": "dio_boot_recipe",
+    "namespace": "mod"
+  }
+}

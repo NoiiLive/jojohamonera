@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:dio_armor_chestplate"
+    },
+    "title": {
+      "translate": "advancements.dio_armor_full.title"
+    },
+    "description": {
+      "translate": "advancements.dio_armor_full.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "dio_armor_full": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:jo_jo_bizarre_attire"
+}

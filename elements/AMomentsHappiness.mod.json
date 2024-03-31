@@ -1,0 +1,21 @@
+{
+  "_fv": 57,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Music Disc",
+    "rarity": "RARE",
+    "texture": "a_moments_happiness",
+    "description": "A Moment's Happiness - Hayato Matsuo",
+    "creativeTab": {
+      "value": "CUSTOM:PhantomBloodMusic"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "music": {
+      "value": "CUSTOM:amomentshappiness"
+    },
+    "lengthInTicks": 1200,
+    "analogOutput": 0
+  }
+}

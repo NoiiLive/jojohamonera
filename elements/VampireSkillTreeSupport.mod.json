@@ -1,0 +1,191 @@
+{
+  "_fv": 57,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 0,
+    "height": 0,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_icon.png",
+          "use1Xscale": false,
+          "x": 184,
+          "y": 91
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_icon.png",
+          "use1Xscale": false,
+          "x": 145,
+          "y": 52
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_icon.png",
+          "use1Xscale": false,
+          "x": 224,
+          "y": 130
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_icon.png",
+          "use1Xscale": false,
+          "x": 224,
+          "y": 52
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_icon.png",
+          "use1Xscale": false,
+          "x": 145,
+          "y": 130
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "skilltree_support.png",
+          "use1Xscale": false,
+          "x": 181,
+          "y": 13
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_guiarrow_left",
+          "image": "guiarrow_left.png",
+          "hoveredImage": "guiarrow_left_h.png",
+          "onClick": {
+            "name": "OpenSkillTreeSpecial"
+          },
+          "x": 171,
+          "y": 13
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_gui_arrow",
+          "image": "gui_arrow.png",
+          "hoveredImage": "gui_arrow_h.png",
+          "onClick": {
+            "name": "OpenSkillTreeMovement"
+          },
+          "x": 244,
+          "y": 13
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_special",
+          "text": {
+            "fixedValue": "Special"
+          },
+          "width": 13,
+          "height": 19,
+          "x": 171,
+          "y": 13
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_movement",
+          "text": {
+            "fixedValue": "Movement"
+          },
+          "width": 13,
+          "height": 19,
+          "x": 244,
+          "y": 13
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_stat_guibutton",
+          "image": "stat_guibutton.png",
+          "hoveredImage": "stat_guibutton_h.png",
+          "onClick": {
+            "name": "OpenStatPageKeybind"
+          },
+          "x": 202,
+          "y": 148
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_rebindtab",
+          "image": "skilltree_rebindtab.png",
+          "hoveredImage": "skilltree_rebindtab_h.png",
+          "x": 204,
+          "y": 135
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_rebindtab1",
+          "image": "skilltree_rebindtab.png",
+          "hoveredImage": "skilltree_rebindtab_h.png",
+          "x": 244,
+          "y": 96
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_rebindtab2",
+          "image": "skilltree_rebindtab.png",
+          "hoveredImage": "skilltree_rebindtab_h.png",
+          "x": 165,
+          "y": 96
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_rebindtab3",
+          "image": "skilltree_rebindtab.png",
+          "hoveredImage": "skilltree_rebindtab_h.png",
+          "x": 165,
+          "y": 174
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_skilltree_rebindtab4",
+          "image": "skilltree_rebindtab.png",
+          "hoveredImage": "skilltree_rebindtab_h.png",
+          "x": 244,
+          "y": 174
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

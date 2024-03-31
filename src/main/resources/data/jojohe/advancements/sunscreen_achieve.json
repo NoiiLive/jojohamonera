@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:sunscreen_item"
+    },
+    "title": {
+      "translate": "advancements.sunscreen_achieve.title"
+    },
+    "description": {
+      "translate": "advancements.sunscreen_achieve.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "sunscreen_achieve": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:hothot"
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:dire_armor_chestplate"
+    },
+    "title": {
+      "translate": "advancements.dire_armor_full.title"
+    },
+    "description": {
+      "translate": "advancements.dire_armor_full.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "dire_armor_full": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:tonpetty_armor_full"
+}

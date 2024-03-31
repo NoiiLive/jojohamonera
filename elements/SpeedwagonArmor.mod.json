@@ -1,0 +1,78 @@
+{
+  "_fv": 57,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "speedhat",
+    "enableBody": true,
+    "textureBody": "speedshirt",
+    "enableLeggings": true,
+    "textureLeggings": "speedpants",
+    "enableBoots": true,
+    "textureBoots": "speedshoes",
+    "creativeTab": {
+      "value": "CUSTOM:PhantomBloodArmor"
+    },
+    "armorTextureFile": "invis_",
+    "helmetName": "Speedwagon's Hat",
+    "bodyName": "Speedwagon's Coat",
+    "leggingsName": "Speedwagon's Pants",
+    "bootsName": "Speedwagon's Shoes",
+    "helmetSpecialInformation": {
+      "fixedValue": []
+    },
+    "bodySpecialInformation": {
+      "fixedValue": []
+    },
+    "leggingsSpecialInformation": {
+      "fixedValue": []
+    },
+    "bootsSpecialInformation": {
+      "fixedValue": []
+    },
+    "helmetModelName": "ModelSpeedwagonHat",
+    "helmetModelPart": "hat",
+    "helmetModelTexture": "speedwagonhat.png",
+    "bodyModelName": "ModelZeppelisCoat",
+    "bodyModelPart": "body",
+    "armsModelPartL": "leftarm",
+    "armsModelPartR": "rightarm",
+    "bodyModelTexture": "speedcoat.png",
+    "leggingsModelName": "ModelZeppelisPants",
+    "leggingsModelPartL": "LeftLeg",
+    "leggingsModelPartR": "RightLeg",
+    "leggingsModelTexture": "speedpants.png",
+    "bootsModelName": "ModelZeppeliBoots",
+    "bootsModelPartL": "LeftBoot",
+    "bootsModelPartR": "RightBoot",
+    "bootsModelTexture": "speedboots.png",
+    "helmetItemRenderType": 0,
+    "helmetItemCustomModelName": "Normal",
+    "bodyItemRenderType": 0,
+    "bodyItemCustomModelName": "Normal",
+    "leggingsItemRenderType": 0,
+    "leggingsItemCustomModelName": "Normal",
+    "bootsItemRenderType": 0,
+    "bootsItemCustomModelName": "Normal",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 6,
+    "damageValueHelmet": 2,
+    "damageValueBody": 2,
+    "damageValueLeggings": 2,
+    "damageValueBoots": 2,
+    "enchantability": 9,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "Items.LEATHER"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:warrior_item"
+    },
+    "title": {
+      "translate": "advancements.root_warrior.title"
+    },
+    "description": {
+      "translate": "advancements.root_warrior.descr"
+    },
+    "frame": "challenge",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "root_warrior": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:hamon_user"
+}

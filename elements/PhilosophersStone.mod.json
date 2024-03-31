@@ -1,0 +1,65 @@
+{
+  "_fv": 57,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "philospher_stone",
+    "customModelName": "Normal",
+    "customProperties": {},
+    "states": [],
+    "name": "§cPhilosopher's Stone",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "MATERIALS"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 60,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInformation": {
+      "fixedValue": [
+        "§7§oYou feel your power slowly being drawn away...",
+        "§f§l§oRight-Click §7§oto return to being §9§oHuman"
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onRightClickedInAir": {
+      "name": "PhilosophersStoneActivate"
+    },
+    "onStoppedUsing": {
+      "name": "PhilospherStoneReset"
+    },
+    "onFinishUsingItem": {
+      "name": "PhilospherStoneReset"
+    },
+    "enableRanged": false,
+    "shootConstantly": false,
+    "projectile": {
+      "value": "CUSTOM:SpaceRipperProjectile"
+    },
+    "isFood": false,
+    "nutritionalValue": 4,
+    "saturation": 0.3,
+    "eatResultItem": {
+      "value": ""
+    },
+    "isMeat": false,
+    "isAlwaysEdible": false,
+    "animation": "bow"
+  }
+}

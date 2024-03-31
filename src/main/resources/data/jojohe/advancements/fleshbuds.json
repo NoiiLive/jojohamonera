@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:fleshbud_item"
+    },
+    "title": {
+      "translate": "advancements.fleshbuds.title"
+    },
+    "description": {
+      "translate": "advancements.fleshbuds.descr"
+    },
+    "frame": "goal",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "fleshbuds": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:shadow_teleport"
+}

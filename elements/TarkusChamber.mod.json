@@ -1,0 +1,26 @@
+{
+  "_fv": 57,
+  "_type": "structure",
+  "definition": {
+    "structure": "chamberspawner",
+    "projection": "rigid",
+    "ignoredBlocks": [
+      {
+        "value": "Blocks.STRUCTURE_BLOCK"
+      },
+      {
+        "value": "Blocks.AIR"
+      }
+    ],
+    "spacing": 65,
+    "separation": 40,
+    "restrictionBiomes": [
+      {
+        "value": "#is_overworld"
+      }
+    ],
+    "surfaceDetectionType": "WORLD_SURFACE_WG",
+    "terrainAdaptation": "none",
+    "generationStep": "UNDERGROUND_STRUCTURES"
+  }
+}

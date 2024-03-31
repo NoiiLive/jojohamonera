@@ -1,0 +1,21 @@
+{
+  "_fv": 57,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Music Disc",
+    "rarity": "RARE",
+    "texture": "sudden_turn",
+    "description": "Sudden Turn - Hayato Matsuo",
+    "creativeTab": {
+      "value": "CUSTOM:PhantomBloodMusic"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "music": {
+      "value": "CUSTOM:asuddenturn"
+    },
+    "lengthInTicks": 1200,
+    "analogOutput": 0
+  }
+}

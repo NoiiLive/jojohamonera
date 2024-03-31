@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jojohe:block/darkbluecarpet",
+    "up": "jojohe:block/darkbluecarpet",
+    "north": "jojohe:block/darkbluecarpet",
+    "east": "jojohe:block/darkbluecarpet",
+    "south": "jojohe:block/darkbluecarpet",
+    "west": "jojohe:block/darkbluecarpet",
+    "particle": "jojohe:block/darkbluecarpet"
+  },
+  "render_type": "solid"
+}

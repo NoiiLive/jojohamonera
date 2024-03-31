@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "a a",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "jojohe:black_cloth"
+    }
+  },
+  "result": {
+    "item": "jojohe:speedwagon_armor_leggings",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:hamon_dash_item"
+    },
+    "title": {
+      "translate": "advancements.hamon_dash.title"
+    },
+    "description": {
+      "translate": "advancements.hamon_dash.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "hamon_dash": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:ground_ripple"
+}

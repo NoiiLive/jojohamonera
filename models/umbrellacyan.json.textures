@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "umbrella_cyan"
+      },
+      "name": "default"
+    }
+  }
+}

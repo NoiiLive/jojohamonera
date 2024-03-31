@@ -1,0 +1,48 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="jojohe"
+version="2.3.0"
+displayName="JoJo: Hamon Era"
+displayURL="https://linktr.ee/noii"
+logoFile="logo.png"
+credits="NoiiLive, Hirohiko Araki"
+authors="Noiielle"
+description="Adds items and abilities from JoJo's Bizarre Adventures, parts 1 and 2"
+
+[[dependencies.jojohe]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+[[dependencies.jojohe]]
+    modId="jojowos"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.jojohe]]
+    modId="geckolib"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.jojohe]]
+    modId="playeranimator"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.jojohe]]
+    modId="jojowos"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"

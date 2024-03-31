@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:space_ripper_item"
+    },
+    "title": {
+      "translate": "advancements.space_ripper_stingy_eyes.title"
+    },
+    "description": {
+      "translate": "advancements.space_ripper_stingy_eyes.descr"
+    },
+    "frame": "goal",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "space_ripper_stingy_eyes": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:frozen"
+}

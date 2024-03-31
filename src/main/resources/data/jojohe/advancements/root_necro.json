@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:necromancer_item"
+    },
+    "title": {
+      "translate": "advancements.root_necro.title"
+    },
+    "description": {
+      "translate": "advancements.root_necro.descr"
+    },
+    "frame": "challenge",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "root_necro": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:vampire_tree"
+}

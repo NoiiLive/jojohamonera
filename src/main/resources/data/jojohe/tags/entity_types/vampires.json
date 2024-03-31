@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [
+    "jojohe:blood_dio",
+    "jojohe:bruford",
+    "jojohe:cat_bird_chimera",
+    "jojohe:cat_bird_chimera_noai",
+    "jojohe:dio_brando",
+    "jojohe:dog_human_chimera",
+    "jojohe:dog_human_chimera_noai",
+    "jojohe:hooded_vampire_1",
+    "jojohe:hooded_vampire_2",
+    "jojohe:hooded_vampire_3",
+    "jojohe:hooded_vampire_4",
+    "jojohe:vampire_1",
+    "jojohe:vampire_2",
+    "jojohe:vampire_3",
+    "jojohe:vampire_4",
+    "jojohe:vampire_steed_entity",
+    "jojohe:vampire_steed_noai",
+    "jojohe:jack_the_ripper",
+    "jojohe:necro_dio",
+    "jojohe:shadow_dio",
+    "jojohe:tarkus",
+    "jojohe:zombie_minion",
+    "jojohe:zombie_minion_noai"
+  ]
+}

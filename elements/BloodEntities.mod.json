@@ -1,0 +1,40 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Entities",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [
+      {
+        "value": "EntityVillager"
+      },
+      {
+        "value": "EntityPillager"
+      },
+      {
+        "value": "EntityEvoker"
+      },
+      {
+        "value": "EntityVindicator"
+      },
+      {
+        "value": "EntityPiglin"
+      },
+      {
+        "value": "EntityPiglinBrute"
+      },
+      {
+        "value": "EntityWitch"
+      },
+      {
+        "value": "EntityWanderingTrader"
+      }
+    ],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "blood_entities",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "jojohe:bloody_iron_knife"
+    },
+    {
+      "item": "jojohe:bloody_iron_knife"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "item": "jojohe:bloody_iron_knife"
+    },
+    {
+      "item": "jojohe:bloody_iron_knife"
+    }
+  ],
+  "result": {
+    "item": "jojohe:blood_bottle",
+    "count": 1
+  }
+}

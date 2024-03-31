@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "jojohe:bruford_hair_helmet"
+    }
+  ],
+  "result": {
+    "item": "jojohe:bruford_armor_helmet",
+    "count": 1
+  }
+}

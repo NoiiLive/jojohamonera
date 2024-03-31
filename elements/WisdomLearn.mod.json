@@ -1,0 +1,61 @@
+{
+  "_fv": 57,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 160,
+    "height": 100,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "name": "button_learn_hamon",
+          "text": "Learn Hamon",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "GetWisdomd"
+          },
+          "width": 82,
+          "height": 20,
+          "x": 172,
+          "y": 136
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "cost_book.png",
+          "use1Xscale": false,
+          "x": 197,
+          "y": 78
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_cost_1_stone_mask",
+          "text": {
+            "fixedValue": "Cost: [1] Book and Quill"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 152,
+          "y": 116
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 10,
+      "sy": 10,
+      "ox": 2,
+      "oy": 1,
+      "snapOnGrid": true
+    }
+  }
+}

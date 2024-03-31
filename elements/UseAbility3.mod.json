@@ -1,0 +1,12 @@
+{
+  "_fv": 57,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "NUMPAD3",
+    "keyBindingName": "Use Ability 3",
+    "keyBindingCategoryKey": "jojohekeybinds",
+    "onKeyPressed": {
+      "name": "KeybindAbility3"
+    }
+  }
+}

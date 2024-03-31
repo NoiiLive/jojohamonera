@@ -1,0 +1,64 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:WhiteCloth"
+      },
+      {
+        "value": "CUSTOM:LightGrayCloth"
+      },
+      {
+        "value": "CUSTOM:GrayCloth"
+      },
+      {
+        "value": "CUSTOM:BlackCloth"
+      },
+      {
+        "value": "CUSTOM:BrownCloth"
+      },
+      {
+        "value": "CUSTOM:RedCloth"
+      },
+      {
+        "value": "CUSTOM:OrangeCloth"
+      },
+      {
+        "value": "CUSTOM:YellowCloth"
+      },
+      {
+        "value": "CUSTOM:LimeCloth"
+      },
+      {
+        "value": "CUSTOM:GreenCloth"
+      },
+      {
+        "value": "CUSTOM:CyanCloth"
+      },
+      {
+        "value": "CUSTOM:LightBlueCloth"
+      },
+      {
+        "value": "CUSTOM:BlueCloth"
+      },
+      {
+        "value": "CUSTOM:PurpleCloth"
+      },
+      {
+        "value": "CUSTOM:MagentaCloth"
+      },
+      {
+        "value": "CUSTOM:PinkCloth"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "cloth",
+    "namespace": "mod"
+  }
+}

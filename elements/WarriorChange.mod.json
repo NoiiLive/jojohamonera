@@ -1,0 +1,262 @@
+{
+  "_fv": 57,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 230,
+    "height": 180,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "name": "button_change",
+          "text": "Change",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "WarriorChangeTo"
+          },
+          "width": 56,
+          "height": 20,
+          "x": 102,
+          "y": 36
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_x",
+          "text": "X",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "MenuClose"
+          },
+          "width": 30,
+          "height": 20,
+          "x": 292,
+          "y": 186
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_xnable",
+          "text": "Disable",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "WarriorDisableChange1"
+          },
+          "width": 56,
+          "height": 20,
+          "x": 162,
+          "y": 61
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_xnable1",
+          "text": "Disable",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "WarriorDisableChange2"
+          },
+          "width": 56,
+          "height": 20,
+          "x": 162,
+          "y": 86
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_xnable2",
+          "text": "Disable",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "WarriorDisableChange3"
+          },
+          "width": 56,
+          "height": 20,
+          "x": 162,
+          "y": 111
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_enable",
+          "text": "Enable",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "WarriorEnableChange1"
+          },
+          "width": 56,
+          "height": 20,
+          "x": 102,
+          "y": 61
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_enable1",
+          "text": "Enable",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "WarriorEnableChange2"
+          },
+          "width": 56,
+          "height": 20,
+          "x": 102,
+          "y": 86
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_enable2",
+          "text": "Enable",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "WarriorEnableChange3"
+          },
+          "width": 56,
+          "height": 20,
+          "x": 102,
+          "y": 111
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_root_warrior",
+          "text": {
+            "fixedValue": "Root: Warrior"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 162,
+          "y": 41
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_zoom_punch",
+          "text": {
+            "fixedValue": "Zoom Punch"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 222,
+          "y": 66
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_scarlet_overdrive",
+          "text": {
+            "fixedValue": "Scarlet Overdrive"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 222,
+          "y": 91
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_sunlight_overdrive",
+          "text": {
+            "fixedValue": "Sunlight Overdrive"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 222,
+          "y": 116
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_root_warrior1",
+          "text": {
+            "fixedValue": "Root: Warrior"
+          },
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "x": 107,
+          "y": 146
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_consume_more_hamon",
+          "text": {
+            "fixedValue": "[Consumes More Hamon]"
+          },
+          "color": {
+            "value": -10092544,
+            "falpha": 0.0
+          },
+          "x": 107,
+          "y": 161
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_strength_ii_regeneration_i",
+          "text": {
+            "fixedValue": "Strength II, Regeneration I,"
+          },
+          "color": {
+            "value": -16751104,
+            "falpha": 0.0
+          },
+          "x": 107,
+          "y": 176
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_resistance_i",
+          "text": {
+            "fixedValue": "Resistance I"
+          },
+          "color": {
+            "value": -16751104,
+            "falpha": 0.0
+          },
+          "x": 107,
+          "y": 191
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 10,
+      "sy": 10,
+      "ox": 2,
+      "oy": 1,
+      "snapOnGrid": true
+    }
+  }
+}

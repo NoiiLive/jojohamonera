@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:hermit_item"
+    },
+    "title": {
+      "translate": "advancements.root_hermit.title"
+    },
+    "description": {
+      "translate": "advancements.root_hermit.descr"
+    },
+    "frame": "challenge",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "root_hermit": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:hamon_user"
+}

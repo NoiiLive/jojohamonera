@@ -1,0 +1,29 @@
+{
+  "_fv": 57,
+  "_type": "structure",
+  "definition": {
+    "structure": "windknightslot",
+    "projection": "rigid",
+    "ignoredBlocks": [
+      {
+        "value": "Blocks.STRUCTURE_BLOCK"
+      },
+      {
+        "value": "Blocks.AIR"
+      }
+    ],
+    "spacing": 80,
+    "separation": 60,
+    "restrictionBiomes": [
+      {
+        "value": "taiga"
+      },
+      {
+        "value": "mutated_redwood_taiga"
+      }
+    ],
+    "surfaceDetectionType": "WORLD_SURFACE_WG",
+    "terrainAdaptation": "beard_thin",
+    "generationStep": "SURFACE_STRUCTURES"
+  }
+}

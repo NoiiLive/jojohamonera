@@ -1,0 +1,175 @@
+{
+  "_fv": 57,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 185,
+    "height": 202,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": true,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "name": "button_select",
+          "text": "Select",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "SelectHamon"
+          },
+          "width": 56,
+          "height": 20,
+          "x": 184,
+          "y": 194
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_empty",
+          "text": "<",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "SpawnGuiOpen"
+          },
+          "width": 30,
+          "height": 20,
+          "x": 83,
+          "y": 109
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_empty1",
+          "text": ">",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "SpawnGuiVOpen"
+          },
+          "width": 30,
+          "height": 20,
+          "x": 313,
+          "y": 109
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "hamonplate.png",
+          "use1Xscale": false,
+          "x": 127,
+          "y": 25
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "dark.png",
+          "use1Xscale": false,
+          "x": 131,
+          "y": 59
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_start_with_access_to_hamon",
+          "text": {
+            "fixedValue": "Start with access to Hamon,"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 137,
+          "y": 65
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_and_combat_against_vampires",
+          "text": {
+            "fixedValue": "and combat against vampires!"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 137,
+          "y": 79
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_abilties",
+          "text": {
+            "fixedValue": "Starting Abilties:"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 137,
+          "y": 125
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_primary_zoom_punch",
+          "text": {
+            "fixedValue": "Primary:  Wine Cutter"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 137,
+          "y": 139
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_secondary_bubble_launcher",
+          "text": {
+            "fixedValue": "Secondary:  Overdrive Barrage"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 137,
+          "y": 153
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_ultimate_overdrive",
+          "text": {
+            "fixedValue": "Ultimate:  Sendo Overdrive"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 137,
+          "y": 167
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 4,
+      "sy": 4,
+      "ox": 1,
+      "oy": 1,
+      "snapOnGrid": true
+    }
+  }
+}

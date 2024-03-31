@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "jojohe:block/red_wool",
+    "top": "jojohe:block/red_wool",
+    "side": "jojohe:block/red_wool"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:street_fighter_item"
+    },
+    "title": {
+      "translate": "advancements.root_street_fighter.title"
+    },
+    "description": {
+      "translate": "advancements.root_street_fighter.descr"
+    },
+    "frame": "challenge",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "root_street_fighter": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:human_tree"
+}

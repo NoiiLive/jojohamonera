@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "jojohe:claw_barrage_item"
+    },
+    "title": {
+      "translate": "advancements.claw_barrage.title"
+    },
+    "description": {
+      "translate": "advancements.claw_barrage.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "claw_barrage": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:root_blood"
+}

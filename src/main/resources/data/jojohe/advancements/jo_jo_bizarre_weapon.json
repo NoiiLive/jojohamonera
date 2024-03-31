@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:shield"
+    },
+    "title": {
+      "translate": "advancements.jo_jo_bizarre_weapon.title"
+    },
+    "description": {
+      "translate": "advancements.jo_jo_bizarre_weapon.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "jo_jo_bizarre_weapon": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "jojohe:jo_jo_hamon_era"
+}
